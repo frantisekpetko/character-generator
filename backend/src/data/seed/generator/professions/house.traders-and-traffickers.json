@@ -1,0 +1,93 @@
+{
+  "sector": "dům obchodníků a překupníků",
+  "profession": [
+        {
+          "name": "bába cukrová",
+          "description": "Podomní obchodnice cukroví"
+        },
+        {
+          "name": "bába jalovcová",
+          "description": "Podomní obchodnice jalovcem, kořením, vhodné k výrobě alkoholu (ginu, borovičky)"
+        },
+        {
+          "name": "bába herynkářka",
+          "description": "Obchodnínice se solenými nebo sušenými rybami dováženými od moře"
+        },
+        {
+          "name": "bába hokynářka",
+          "description": "Prodávala potraviny"
+        },
+        {
+          "name": "bába krupná",
+          "description": "Překupnice"
+        },
+        {
+          "name": "bába kvasňová",
+          "description": "Překupnice, většinou znalý extroverti, prodávali hlavně droždí, obstrávali zboží před svátkem nebo nedělí, za odměnu dostávali od hospodin koláče nebo peníze"
+        },
+        {
+          "name": "bába pučálnice",
+          "description": "Prodávala hrách"
+        },
+        {
+          "name": "bába vejcová",
+          "description": "Prodávala po domech nebo na trzích, nakupovala na statcích a prodávala čerstvá nebo nakládaná vejce"
+        },
+        {
+          "name": "bába zelinářka",
+          "description": "Prodávala po domech a na trzích, prodávala zeleninu (čerstvou i nakládanou), místo peněz dostávali často máslo, mouku a vejce"
+        },
+        {
+          "name": "borůvkář",
+          "description": "Sezonní sběrač a podomní či trhový obchodník prodávající syrové zpracované borůvky"
+        },
+        {
+          "name": "boudník",
+          "description": "Kramář prodávající své zboží v boudě"
+        },
+        {
+          "name": "bosňák, braťko",
+          "description": "Podomní prodavač drobného zboží. Také prováděli opravy hrnců, nýtovali, drátovali a také ostřili nože"
+        },
+        {
+          "name": "cibulník",
+          "description": "Obchodník, obvykle podomní a na trzích. Nakupoval od zahradníků a na statcích a prodával cibuli a česnek"
+        },
+        {
+          "name": "drožďár",
+          "description": "Důležitou osobou pro obec býval drožďář, vážili si ho hospodyně i nejedni muži, jimž obstarával jako posel různé záležitosti. Jezdil pravidelně před nedělí nebo svátkem do pivovaru (většinou do panského brtnického) pro droždí. O svátcích dostával od hospodyně kromě peněz za kvasnice i koláč. Býval hovorný, věděl mnoho novin."
+        },
+        {
+          "name": "dřevník",
+          "description": "Obchodník s dřívím"
+        },
+        {
+          "name": "faktor",
+          "description": "Obstarával prodej i nákup pro cizí. Přiděloval domáckým výrobcům surovinu na zpracování"
+        },
+        {
+          "name": "hokynář",
+          "description": "Obchodník prodávající drobné zboží, obvykle však pouze potraviny. Postupem času, kdy docházelo ke specializaci řemesel a stoupaly životní nároky, vznikaly i ve vesnicích obchody, ve kterých se dalo koupit různé zboží každodenní spotřeby. Tito obchodníci se nazývali hokynáři, někteří z nich obchodovali pouze s potravinami a poživatinami, většinou však kromě tohoto zboží prodávali i nářadí, nádobí, drogistické zboží apod. Majiteli hokynářství bývali často židé, do dnešních dob se nám zachoval slovní obrat \"kafe od Žida\". \\nProvozovatelé těchto živností se též mnohdy zabývali i další činností, buď sedlačili, nebo provozovali šenkýřství. V 19. století se od tohoto označení živnosti upouštělo a prodejny byly označovány jako obchody se smíšeným zbožím, což se zejména na vesnicích udrželo dodnes. "
+        },
+        {
+          "name": "holubník",
+          "description": "Obchodník s holuby"
+        },
+        {
+          "name": "hrachovník",
+          "description": "Obchodník s hrachem a luštěninami"
+        },
+        {
+          "name": "hrstník",
+          "description": "Obchodník prodávající sypké zboží ne na váhu ale hrstě – sůl, semena, obilí, kroupy, hrách a pod."
+        },
+        {
+          "name": "husák",
+          "description": "Obchodník s drůbeží, zejména s vykrmenými husami"
+        },
+        {
+          "name": "Inkoustník",
+          "description": "Prodejce inkoustu a psacích potřeb a papírů. Často býval i písma znalý a psal různé písemnosti. Zvláštní zjev tehdejší doby byl papírník a inkoustník. Byli to lidé obyčejně poněkud inteligentní, městští. Věděli vždy něco nového, co dělá ta \"konstituce\", co Košut, či jiný soused. Papír byl, rozumí se, ruční; obchodník měl ho 3—4 druhy. Když svůj těžký uzel postavil na stůl, tu jej děti zvědavě jej obstoupily a dívaly se, jak uzel rozvazuje a pevné domácí plátno rozvinuje, pod nímž objevila se vrstva různých »knih«. Kupovalo se po knihách i po arších. Aby ukojil zvědavost dětskou a trochu se i pochlubil, rozevřel papírník též zvláštní balík, kde měl zvláště jemný papír. Oči jste na něm mohly nechat! Pohovořil a zase odešel.\\nČasto s ním chodil \"Vašíček\" s inkoustem. Byl to muž letný, obyčejně Inkoustem ho nazývali. V pytli na zádech nesl obrovskou láhev z kameniny, odkroutil zátku \"na šroub\" upravenou a pak tázal se: \"Kolik, půl — celý?\" Totiž žejdlík. Naměřil a nálevkou, kterou s sebou nosil, vlil do nastavené lahvice. Naříkával, jak ho záda bolí"
+        }
+  ]
+}

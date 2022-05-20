@@ -1,0 +1,25 @@
+{
+  "sector": "dům využití fauny a flóry",
+  "profession": [
+        {
+          "name": "brabenář",
+          "description": "Sbíral mravenčí kukly a vyráběl kyselinu mravenčí, vyráběli mravenčí líh, kterým hojili bolesti a zastudeniny"
+        },
+        {
+          "name": "brtník",
+          "description": "Lesní včelař"
+        },
+        {
+          "name": "čižbař",
+          "description": "Neboli ptáčníci. Chytali ptáčky. Ptactvo se odchytávalo pomocí živé sojky, narozdíl od 'ůpanského' lovu, kdy se používal výr. Když začala sojka 'skřehotat', tak se ptáčkové slétali a usedali na polepené větvoví - vějičky"
+        },
+        {
+          "name": "fasíř",
+          "description": "Vandrovní myslivec"
+        },
+        {
+          "name": "hajný",
+          "description": "Ustanoven, jmenován majitelem lesa pro ochranu a pro dohled na lesní práce. K lesu odjakživa patřil hajný, který byl ustaven pro ochranu lesa a jako dohled na lesní práce. K městečku Brtnice příslušel Velký Černý les (od Lhotských polí až k Brancouzské cestě), který spravoval a dřevo prodával hajný ze Lhoty. Další černý les se prostíral od Brancouzské cesty až k Třebíčské silnici a spravoval jej hajný přímo z Brtnice. Na Poušti – kde býval Štěpán poustevníkem – byl také za vodou černý les – který celý příslušel k Brtnici a ten měl také svého samostatného hajného"
+        }
+      ]
+}

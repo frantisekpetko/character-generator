@@ -1,0 +1,21 @@
+{
+  "sector": "dům využití běžného a drahého kamení",
+  "profession": [
+        {
+          "name": "Granátů šlejfíř",
+          "description": "Brusič granátů (šperkových kamenů, zejména českých granátů)"
+        },
+        {
+          "name": "havéř, kalník",
+          "description": "Řemeslník lámající kámen"
+        },
+        {
+          "name": "havíř",
+          "description": ""
+        },
+        {
+          "name": "havíř",
+          "description": "Dělník dobývající v dole rudu nebo uhlí."
+        }
+  ]
+}

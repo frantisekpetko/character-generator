@@ -1,0 +1,37 @@
+{
+  "sector": "dům umění",
+  "profession": [
+        {
+          "name": "cuprejtýř",
+          "description": "Pomocník malíře, který zhotovoval podkladovou vrstvu obrazů jak na plátně tak i na omítce pro fresky a sgrafita"
+        },
+        {
+          "name": "flašinetář",
+          "description": "Většinou válečný vysloužilec, který na základě povolenky mohl hrát na přidělený flašinet – kolovrátek"
+        },
+        {
+          "name": "harfeník",
+          "description": "Hudebník hrající na harfu"
+        },
+        {
+          "name": "hauslař, houslař",
+          "description": "Výrobce houslí a hudebník a také hudebník na housle "
+        },
+        {
+          "name": "herec",
+          "description": "Obveselovatel na jarmarcích a panských slavnostech. Většinou člen kočovní společnosti. "
+        },
+        {
+          "name": "hudec, hudlař",
+          "description": "Hráč na různé nástroje "
+        },
+        {
+          "name": "iluminátor",
+          "description": "Malíř specialista na drobné ilustrace do ručně psaných knih. Často býval i písařem"
+        },
+        {
+          "name": "impresor",
+          "description": "Knihtiskař. Často byl i vydavatelem a knihkupcem "
+        }
+      ]
+}

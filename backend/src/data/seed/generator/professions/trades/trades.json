@@ -1,0 +1,5274 @@
+[
+{
+"id": 221,
+"name": "Instrumentář",
+"description": "Výrobce drobných nástrojů pro hodináře, lékaře a pod. později   specialista na chirurgické nástroje.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 222,
+"name": "Intarzér",
+"description": "Viz marketiér. Vykládá – intarzuje předměty různými vzácnými dřevy a kovy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 223,
+"name": "Jablečník",
+"description": "Štěpař, specialista zahradník, odborník na jabloně. Dokázal neomylně vybrat tu správnou místní odrůdu pro tu kterou polohu sadu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 224,
+"name": "Jahelničkář",
+"description": "Viz Jehelničkář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 225,
+"name": "Jarmarečník",
+"description": "Obchodník, obvykle kramář prodávající na jarmarcích.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 226,
+"name": "Jehelník",
+"description": "Specialista kovář, specializující se na výrobu různých druhů jehel, nejen na plátno, ale i na kůže, čalounění a pro obuvníky vyráběl různé nástroje.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 227,
+"name": "Jehelničkář",
+"description": "Výrobce jehelníčků ze dřeva a kůže a jiných materiálů, často z drahých kovů jako svatební dary. Tyto kousky se dlouho dopředu objednávaly a byly opravdu malé umělecké dílko.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 228,
+"name": "Jilčař",
+"description": "Specialista nožíř, výrobce jílců pro meče, dýky a nože. Býval dobrým rytcem a jeho výrobky bývaly vysoce ceněny.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 229,
+"name": "Jirchář",
+"description": "Řemeslník vydělávající kůže hlinitými solemi. Jirchářství jest druh minerálného vydělávání kůže, při kterém se kůže na líci vlasu a pokožky, na rubu tukové vrstvy a blan dle stejných zásad jako v koželužství zbavuje a před hnitím chrání tím, že se napojí roztokem kamence.\\nV Brtnici po této činnosti zůstal pouze místní název \"U Jirchárny\".",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 230,
+"name": "Kabátník ",
+"description": "Specialista krejčí, odborník na šití kabátů, plédů, palet, pláštěnek a podobného obječení.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 231,
+"name": "Kachlář",
+"description": "Hrnčíř, kamnář, specializovaný na výrobu kachlí pro kachlová kamna. Často býval i zdatný stavitel kamen a velkých kuchyňských ploten.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 232,
+"name": "Kachňář",
+"description": "Kuřař který prodával kachní kuřata z vlastního chovu a kupoval prodával kachny.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 233,
+"name": "Kalamářník",
+"description": "Soustružník specialista na výrobu kalamářů. Toto řemeslo bylo vytlačeno pozdější masovou výrobou kalamářů skleněných.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 234,
+"name": "Kalhotník",
+"description": "Specialista krejčí. Vyráběl různé druhy kalhot od obyčejných „štruksáků“ až po panské jemné punčochové kalhoty, či zdobené horní bohatě vyšívané.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 235,
+"name": "Kameník",
+"description": "Dalšími řemeslníky, kteří v Brtnici působili, byli kameníci a zedníci kameňáci zhotovující kamenné ornamenty a kamenné zdivo. I když činností kameníků bylo zejména zpracování kamene a jeho sestavování do celků a činností zedníků budování hrubých staveb, tato řemesla se prolínala a mnohdy nebylo mezi nimi rozdílu, vždyť první zděné stavby byly zhotoveny z kamene. Tuto činnost prováděli zajisté i brtničtí obyvatelé, když se v robotě podíleli na budování, a později opravách hradu (zámku). V 15. století se začala tato dvě řemesla od sebe diferencovat.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 236,
+"name": "Kamnář",
+"description": "Specialisté hrnčířů byli kamnáři, kteří hotovili kachle a stavěli kamna, která ve středověku byla výsadou pánů, či měšťanů. V renesanci a baroku došlo k rozvoji tohoto řemesla, prostá kamna pro běžnou městskou domácnost, či vesnickou usedlost se zhotovovala z jednoduchých režných, či zakuřovaných kachlí.\\nV průběhu 19. století se postupně zaváděla jednoduchá hranolovitá kamna, kde účelnost převažovala nad výtvarností. Obvyklými se staly šamotové kachle tlumených barev, jak je nacházíme na přelomu 19. a 20. století, či později.\\nZda v Brtnici tato řemesla existovala, dnes už asi nezjistíme. V každém případě se však naši předkové s výrobky hrnčířů, či kamnářů setkávali denně v běžném životě. Dobrý kamnář dokázal zhotovit za čtyři neděle \"čtvery až sedmery kamna buď \"sprosté selské nepolejvané, nebo polejvané - panské\".",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 237,
+"name": "Kantor",
+"description": "Školní vzdělání nebylo po staletí zdaleka tím, jak je známe z dnešní doby. Školství, které bylo před třicetiletou válkou ve značném rozvoji, v 2. polovině 17. století jen živořilo. Učilo se pouze základům čtení, psaní a počítání. Učitelství bylo většinou jen vedlejším zaměstnáním . Změna těchto poměrů nastala teprve díky reformám za vlády Marie Terezie a Josefa II., kdy vyšlo nařízení, aby nižší škola (triviální) byla zřízena při každé farnosti. V Brtnici tomu bylo ale jinak.\\nKolem roku 1585 byl pro \"zlé chování\" Tomšovi Mrázovi vzat grunt a z něho škola udělána (jak stojí v zápise brtnických konšelů). Od jeho roli, louky a zahrady do vůle panské jest puštěno a to vše knězi Matoušovi zvanému Chytroušovi dáno. Inspekcí nad novou obecní školou je tedy pověřen kněz Chytrouš, jakožto rektor budiž ustanoven kostelník Matěj a též kantor ustanoven jest volbou měšťanstva Brtnice.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 238,
+"name": "Kaplan",
+"description": "(Z latinského capellanus) duchovní vázaný na kapli je funkční titul pro duchovní, zejména křesťanské. Pomocný duchovní, zejména v římském katolicismu. Skutečným kaplanem je tehdy, jestliže je mu svěřena služba v některém filiálním kostele nebo kapli v rámci farnosti.\\nBěžně se tak však označuje jakýkoliv farní vikář (ve smyslu farářova zástupce), nejčastěji bývá v této funkci několik let po svém nástupu do praxe mladý kněz, který zatím pracuje ve farnosti pod dozorem zkušeného faráře, a teprve potom bývá jmenován na vyšší pozici, pokud se osvědčí. Duchovní správce obce, podléhal faráři. V Brtnici koncem 14. století zajišťoval dalšího vzdělání pro kněží spolu s brtnickým knězem.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 239,
+"name": "Karbaník",
+"description": "Organizátor různých loterií. Karban je nádoba na losy. Také se toto označení užívalo pro náruživé hráče různých karetních her. Většinou používáno v hanlivém slova smyslu, kdy hráč prohrával co se dalo a často i nedalo (i celý grunt).",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 240,
+"name": "Karbéř",
+"description": "Zedník specializovaný na hašení a přípravu vápna.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 241,
+"name": "Kárník",
+"description": "Ženatý tovaryš. Obchodník na rynku či na trzích prodávající své zboží přímo z káry.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 242,
+"name": "Kartářka",
+"description": "Podezření oprávněné vzbuzovali kartářky. Znali své lidi a neprohlásili se komukoliv. Kartářky ovšem měly spadeno hlavně na ženské pohlaví, kteréž toužívá zvěděti tajné věci. Za zmínku zajisté stojí, že toto řemeslo nemá mužského provozovatele.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 243,
+"name": "Kartnéř",
+"description": "Malíř specialista zhotovující drobné malby, zejména na karty a malé obrázky do medailonků.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 244,
+"name": "Kat",
+"description": "Mocepanský zaměstnanec obstarávající výkon práva útrpného – mučení a práva hrdelního – různé druhy poprav – věšení, stětí a pod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 245,
+"name": "Kejklíř",
+"description": "Člověk, který provozuje kejkle, tj. zručností svou a hbitostí zvláště prstů provádí kousky diváku nepochopitelné a podiv vzbuzující.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 246,
+"name": "Klempíř",
+"description": "Řemeslník zhotovující z plechu (železného, pocínovaného, pozinkovaného, měděného, ...) různé předměty jako lampy, svítilny, krabice, hrnce, poklice, žlaby a v posledním století tisíciletí i kouřovody a střechy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 247,
+"name": "Klenotník",
+"description": "Řemeslník, obvykle zlatník, usazující drahé kameny do kovových ložisek šperků a různých předmětů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 248,
+"name": "Kletnář",
+"description": "Řemeslník, většinou košíkář specialista, výrobce dřevěných klecí. Pozěji i klecí jen s dřevěným rámem a různě tvarovanými dráty do domečků, altánků a pod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 249,
+"name": "Kloboučník",
+"description": "Řemeslník zabývající se výrobou klobouků z plsti, slámy, lýčí, kůží i kožešin, papíroviny a pod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 250,
+"name": "Kloboučník pávový",
+"description": "Specialista zaměřený pouze na výzdobu klobouků různými péry (paví péra), štětinami (štětiny pro myslivce), ale i různými stuhami a krajkami a papírovými ozdobami pro dámské klobouky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 251,
+"name": "Knap",
+"description": "Tovaryš u soukeníka.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 252,
+"name": "Knihař",
+"description": "Pojmenování pro člověka který je knihařem – vazačem knih a rukopisů, nakladatelem, knihkupecem a knih tlačitel v jedné osobě. Později novější pojmenování pro řeneslníka, který spojoval jednotlivé listy knihy v celek, opatřoval je deskami více či méně zdobenými s různou vazbou od papíru až po kůži. V Brtnici byl do roku 1859.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 253,
+"name": "Knihkupec",
+"description": "Obchodník který nakoval od spisovatelů rukopisy, dával je do tisku a obstarával prodej exemplářů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 254,
+"name": "Knih tiskař",
+"description": "Tiskař používající ke zhotovení kopií techniku knihtisku.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 255,
+"name": "Knoflíkář",
+"description": "Řemeslník vyrábějící knoflíky. V Čechách většinou pouze perleťové z perleťových mušlí perlorodek. Kromě perleti se vyráběly knoflíky z různých kovů, rohu, slonoviny, tvrzené gumy, dřeva, skla, porcelánu, tvrzeného papíru, nití a sukna. Specialitou byly plechové knoflíky na potahování stejnou látkou jako oblečení.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 256,
+"name": "Kobližník",
+"description": "Pekař specialista na koblihy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 257,
+"name": "Kobercář",
+"description": "Tkadlec specialista na koberce k ozbobě nábytku, stěn a prostíraní na podlahy. Později toto řemeslo bylo vytlačeno výrobou gobelínů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 258,
+"name": "Kočárník",
+"description": "Řemeslník stolař specialista na výrobu různých kočárů. S rozvojem automobilismu zpočátku ještě vyráběl korby některých osobních aut.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 259,
+"name": "Kojná",
+"description": "Najatá žena ke kojení dítěte místo matky. Většinou svobodná matka, která zůstávala u pánů později i jako vychovatelka.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 260,
+"name": "Kokotkář",
+"description": "Kuřař který prodával mladé kohoutky a kapouny.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 261,
+"name": "Koláčník",
+"description": "Specialista pekař, který vyráběl oblíbené pečivo z pšeničné mouky nadívané hrozinkami, mandlemi, s mákem, povidly, tvarohem nebo perníkem.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 262,
+"name": "Kolář",
+"description": "Dalším řemeslem, které má vztah ke dřevu, bylo kolařství. Kolář, jinak též koloděj či nápravník, v  minulosti zhotovoval vozová kola, vozy a další dřevěné součásti vozů ale i jiné potřebné hospodářské nářadí pro zemědělství.\\nZ kolářské produkce v 15. století je možno uvést vozy, fasuňky, vozy pivní, vozy \"k vezení lesa\", vozy formanské, kočáry, vozy na řemenech, bryčky, případně i selské sáně, vozy šperlochem kryté, žebřiňáky na svoz obilí, kopovňáky na vození hnoje, korby na zemáky, řepu a řízky. Jinak koláři vyráběli také káry, kolečka a trakaře.\\nMateriál si opatřovali sami v místních lesích, dub nebo jilm, který místní nazývali břest. Od 18. století se kolářská produkce rozšiřuje jak do kvality, tak do kvantity. Kolář dělá kola, vozy, trakaře, pluhy, brány, sochory, držadla, násady, topůrka, nákladní vozy, žebřiňáky, korby, valníky apod.\\nNejtypičtější kolářskou prací bylo a zůstalo kolo. Při jeho stavbě se zhotovil postupně náboj (hlava), paprsky (špice nebo ramena) a loukotě (věnec). Kolo se sestavovalo na kolářské stolici (koze). Nakonec je kovář opatřil železnou obručí (ráfem), trubkou a botkou na hlavě. Nástupem železných vozů s pneumatikami řemeslo nedlouho po válce zaniklo.  ",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 263,
+"name": "Kolébečník",
+"description": "Truhlář specialista na výrobu kolébek.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 264,
+"name": "Kolečník",
+"description": "Vozataj s trakačem. Obvykle k dispozici na trhu či rynku. Za úplatu odvážel na trakaři zboží k vozu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 265,
+"name": "Koloděj",
+"description": "Viz Kolář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 266,
+"name": "Kolomazník",
+"description": "Ale také dehtaři se zabývali získáváním dehtu tzv. suchou destilací zejména z borového, na pryskyřici bohatého dřeva. Při destilaci odtékala z pece nejdříve voda s menším množstvím smolnatých látek a z té se vyráběl postupným zahušťováním kolomaz, který byl až do poloviny 19. století používán k mazání os kol vozů, trakařů, mlýnů, atd.  Taková pec se nacházela poblíž borového porostu a stěhovali se postupně po celé borové trati.\\nKaždý hospodář pečlivě hlídal, aby nepropásl kolomazníka. Do většího hospodářství přijíždí kolomazník na jisto, věděl již, kdy asi jim dojde kolomaz. Bez ptaní bral již větší konývku a hospodář jen připomene, aby ji dobře vyškrabal, až vylije obsah do jeho kolomaznice. Mátě každé »řemeslo« své uskoky a chytrosti, to hospodář ví. Staroch kolomazník skuhrá, že musí pantáta krejcárek přidati, že je teď o louč nouze. Skončiv trh, odjíždí dále a spouští pro všeobecnost své obvyklé zpěvné hlášení: \"Kolomaz, kupte kolomaz\". Děti vybíhají před stavení a některý nezveda povystrčiv ze vrat hlavu, opakuje po starci: »Kolomaz!« Avšak staroch je tomu zvyklý, nic ho to nepohoršuje a jede svou cestou dále a zastaví jen, uvidí-li někoho přes cestu k sobě přicházet.  ",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 267,
+"name": "Kolovratník",
+"description": "Výrobce kolovrátků.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 268,
+"name": "Kolovrátkář",
+"description": "Viz Flašinetář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 269,
+"name": "Koltář",
+"description": "Vyšívač a i výrobce kolter – ozdobných závěsů kobercového rázu (používaných na okna a vchody), ale i ozdobných obyčejných přikrývek na lože.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 270,
+"name": "Koňský handlíř",
+"description": "Nakupoval a prodával koně. Zejména židé byli v tomto obchodě odborníci.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 271,
+"name": "Kominík",
+"description": "Dříve jsme se s nimi běžně setkávali v ulicích Nadále sice zůstávají v pranostikách nositeli štěstí, ale potkat je, to už se dá nazvat spíše zázrakem. Vymetání komínů štětkou většinou v důsledku totální plynofikace nahradila revize čistoty a proměřování spalování a úletu škodlivin. Kominíci, kteří se zabývali čistěním komínů měli vlastní cech.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 272,
+"name": "Konfetkář",
+"description": "Pekař specialista, který z medu, cukru a mouky pekl konfety – zákusky, cukroví a dělal bonbony.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 273,
+"name": "Konvář",
+"description": "Specialista klempíř, který zhotovoval z cínu a později i z jiných plechů, různé nádoby a konvice.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 274,
+"name": "Konvičkář",
+"description": "Specialista na různé malé nádoby, zejména odměrky na tekutiny (mléko a pod.)",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 275,
+"name": "Kopinník",
+"description": "Vyrobce kopí – útočná zbraň skládající se z dřevěného bidla s přibitým kovovým hrotem. Obvykle však hroty nakupoval o Hrotníka.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 276,
+"name": "Kopitkář",
+"description": "Dokud se dělala ze smolného dříví kolomaz, tu býval jakožto vedlejší výrobek i kopt (saze). Koptikáři rozváželi jej v dlouhých bečičkách na obou koncích knůtky obvázaných a vysoko na trakaři vyrovnaných. Truhláři, ševci,   kupci byli hlavní jejich odběratelé. Avšak i do domácností jej prodali, dokud se podomácku dělalo leštidlo na boty. I na koptařích bylo přesvědčení, že „každý rozumí svému“. Kdykoli se blížili k dědině, kde doufali prodat své zboží, zastavili a přerovnávajíce celý náklad, každou bečičkou řádně zatřepali (zahrkali), aby se kopt načechral; jinak bylo ho v nádobce sotva s polovice.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 277,
+"name": "Kopytkář",
+"description": "Truhlář specializovaný na výrobu ševcovských kopyt.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 278,
+"name": "Korábník",
+"description": "Loupal a zpracovával kůru stromů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 279,
+"name": "Korbař",
+"description": "Řemeslník specialista který vyráběl korby pro různé vozy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 280,
+"name": "Korbelář",
+"description": "Spojoval ve svém řemesle umění bednářů a cínařů a vyráběl různé korbele.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 281,
+"name": "Kordováník",
+"description": "Specialista koželuh, který připravoval jemnou useň vyděláváním obvykle kozích koží – kozinku. Kozinka se používala k výrobě jemných střevíčků, na vazbu knih a pod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 282,
+"name": "Korytník",
+"description": "Řemeslo příbuzné neckáři. Korytník ale vyráběl koryta pro napájení dobytka, většinou z jednoho kusu. Vyráběl také koryta na vedení vody – dlouhé půlené klády.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 283,
+"name": "Kosař",
+"description": "Kovář specialista na kosy, srpy, mačety a podobné nářadí.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 284,
+"name": "Kostelník",
+"description": "Ke správě farnosti patřil neodmyslitelně i kostelník, který se jednak zabýval pomocnými činnostmi při správě kostela, staral se o roucha kněží a ministrantů a též o obřadní nádoby a jednak vykonával určené úkony při obřadech a s obřady souvisejícími. Původně musel být kostelníkem duchovní nižšího svěcení.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 285,
+"name": "Kostečník",
+"description": "Výrobce užitkových i ozdobných předmětů z kostí. Jeho specialitou byly             hrací kostky a koule.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 286,
+"name": "Kostkář",
+"description": "Viz Kostečník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 287,
+"name": "Košíkář",
+"description": "Řemeslník zhotovující košíky, koše, nůše, ošatky, a pod. pletením většinou z vrbového proutí. Současnost to považují spíše za zájmovou činnost, ale dříve to byla živnost. Zboží se vyrábělo hlavně v období vegetačního klidu - v zimě. Vrbové pruty se však řezaly hned po žních. Máčením v mlýnské náhonu získávaly potřebnou pružnost, nezbytnou pro další zpracování. Vyráběly se především jednouché košíky, dále dvouuché \"bramboráky\" a také větší \"ohrabečňáky\" pro přenášení sena a sečky pro dobytek.\\¨nPravděpodobně poslední košíkář byl v ulici K volejně. Materiál se získával přímo v místě, neboť až do regulace Brtničky byla říčka lemována po celé délce vrbami.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 288,
+"name": "Koštér vína",
+"description": "Vrchnostenský nebo městský finanční zřízenec ověřující kvalitu vína.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 289,
+"name": "Košťatář",
+"description": "Výrobce různých košťat a metáčků. Používalo se obyčejně vrbové proutí, jalovcové větvičky ale i jiný materiál. Na malé metáčky se používalo i „šustí“. Ve svém prodejním sortimentu míval i metáčky z husích křídel, na vymetání pecí a „mašlovačky“ na pečivo.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 290,
+"name": "Kotečník",
+"description": "Tesař specialista na stavbu kotců, kolen a krámků.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 291,
+"name": "Kotlář",
+"description": "Řemeslník specialista na výrobu různých kotlíků a kotlů. Vyráběl malé kotlíky pro kuchařky a veliké kotle pro pivovary.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:11",
+"updated_at": "2021-01-12 10:02:11"
+},
+{
+"id": 292,
+"name": "Kotlář pánví železných",
+"description": "Výrobce železných pánví a plechů na pečení.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 293,
+"name": "Koudelník",
+"description": "Řemeslník spřádající z koudele hrubou přízi. (Koudel – lněná nebo konopná kratší, hubší a pazdeřím znečištěná vlákna.)",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 294,
+"name": "Kovář",
+"description": "Jedním z nejvýznamnějších a nejznámějších řemesel bylo bezesporu kovářství, což bezprostředně souviselo s rozsáhlou zemědělskou činností vč. využívání koňských a kravských potahů. Původním vybavením kovárny byla kovadlina a ruční měch s výhní. Kováři si museli všechno vyrobit i s jednoduchými nástroji sami. Od podkov a různých druhů kování na vozy a kola až po hřebíky. Byli typem lidových všeumělců, z nichž někteří skutečně dokázali zručně vytrhnout bolavé zuby.\\nKovář byl vždy řemeslníkem, který převážně za horka tvaroval železo do žádoucí podoby kladivem na kovadlině. Ve vesnicích i v menších městech nacházíme kovářství jako jedno z mála řemesel, které od středověku existovalo a rozvíjelo se jen s malými technickými změnami a s téměř komplexním souborem výrobků. Řemeslo se členilo podle druhu výrobku na řadu příbuzných oborů, jako bylo samotné kovářství, zbrojířství, zámečnictví, kotlářství, cvočkařství aj. Kováři též bývali ranhojiči i zvěrolékaři, tahání zubů a pouštění žilou koním bývalo jejich nejobvyklejší vedlejší činností. Postupem času začali kováři vyrábět nové druhy hospodářského a řemeslnického nářadí, řetězy či železné hřbitovní kříže, branky, okování dveří, panty a j.\\nJe velmi pravděpodobné, že kovářské řemeslo existovalo v Brtnici od nepaměti a zůstane tak i nadále.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 295,
+"name": "Kovolitec",
+"description": "Zhotovoval různé předměty litím kovů (litiny, tvárné litiny, zinku, cínu, olova, mosazi, bronzu,...) do forem z různých materiálů (písek, hlína, kov, sádra, ...).",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 296,
+"name": "Kozař",
+"description": "Obchodník s kozami. Většinou na trzích a kde neměli obecního kozla domlouval si návštěvy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 297,
+"name": "Koželuh",
+"description": "Původně si ševci vyčiňovali kůže sami, zejména domácí hověziny, ale i koňských. Používali k tomu dubovou kůru, kterou si opět sami v okolních lesích loupali. Potřebné zabarvení pak získali použitím kůr smrkových, bukových, javorových či vrbových. Koželužské řemeslo patřilo mezi málo oblíbené - hlavně pro nečistou práci a velký zápach. Hanlivě se jim říkalo smraďaři. Surová kůže snadno zahnívá, a uschne-li, je tvrdá a lámavá. Vyděláváním koželužským přechází v látku trvanlivou, měkkou a ohebnou, v tak zvanou useň. Kůže se nejdříve čistí, aby se odstranila pokožka a srsť. Za tím účelem se především máčí ve vodě, aby změkla, pak zbavuje se mizdřením na postruhu, totiž přetahováním přes dlouhý tupý nůž tak zv. skobzu nebo skoblu zbaví veškerých zbytků masa a blan. Tyto činnosti se zajisté prováděly podomácku .\\nV roce 1882 měla Brtnice jen jednoho koželuha, který měl živnost a zaměstnával nárazově námezní pracovníky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 298,
+"name": "Kožešník",
+"description": "Řemeslník obykle i vydělávající surové kůže s chlupy a pak z nich zhotovuje rukávníky, kožichy, čepice, límce, předložky, koberce, polštáře a pod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 299,
+"name": "Kramář",
+"description": "Obchodník, menší kupec, který prodával všechno na různých místech, později jen to, co se doma nevyrábělo (koření, jižní ovoce, cizí plátno, vzácná dřeva, a pod.). V dřívější době také obchodník prodávající toto zboží z „kamenného“ obchodu – krámu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 300,
+"name": "Krampléř",
+"description": "Česal vlnu pro další zpracování.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 301,
+"name": "Kranečník",
+"description": "Viz věnečník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 302,
+"name": "Kravák",
+"description": "Městskými obyvateli chovatel krav, který mlékařil, vyráběl tvaroh a sýry a    tyto výrobky sám na trhu prodával.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 303,
+"name": "Kravař",
+"description": "Obchodník s hovězím dobytkem.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 304,
+"name": "Krejčí",
+"description": "Stříhal a šil šaty z různých látek. V roce 1882 měla Brtnice 25 živností krejčovských.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 305,
+"name": "Krejčí kalhot",
+"description": "Krejčí, který šil a opravoval pouze kalhoty.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 306,
+"name": "Kroječ sukna",
+"description": "Krájel sukno na lokte dle potřeby k prodeji.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 307,
+"name": "Kroupník",
+"description": "Mlynář vyrábějící koupy z ječného zrní, řidčeji pšeničného, buď otloukáním nebo omíláním v krupníku.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 308,
+"name": "Kroupník dědinský",
+"description": "Mlynář krupice na dětskou kaši.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 309,
+"name": "Kroužkař",
+"description": "Viz Přezkář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 310,
+"name": "Krtičkář",
+"description": "Většinou vandrovník zabývající se chytáním krtků. Krtčí kůžky potom sušil a dodával kožešníkům.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 311,
+"name": "Krumpléř",
+"description": "Řemeslník, který krumploval – vyšíval zlatem a drahokamy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 312,
+"name": "Krumplíř",
+"description": "Viz Krumpléř.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 313,
+"name": "Krupér",
+"description": "Viz Krupník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 314,
+"name": "Krupičník",
+"description": "Viz Kroupník dědinský.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 315,
+"name": "Kudlák",
+"description": "Viz nožíř.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 316,
+"name": "Kuchař",
+"description": "Připravoval pokrmy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 317,
+"name": "Kuchyník",
+"description": "Název pro kuchaře který připravoval a podával stravu ve veřejných vývařovnách.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 318,
+"name": "Kuléř",
+"description": "Specialista kameník, který z kamene tesal koule pro praky a děla.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 319,
+"name": "Kupec",
+"description": "Dovážel zboží pro kramáře a další obchodníky. Nakupoval ve velkém a prodával po menším.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 320,
+"name": "Kuplíř",
+"description": "Zabýval se činností většinou za hranicí zákona. Obvykle zprostředkovával prostituci.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 321,
+"name": "Kuřař",
+"description": "Obchodník s kuřaty drůbeže domácí a drůbeží vůbec.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 322,
+"name": "Kušař",
+"description": "Výrobce samostřílů, kuší, praků a podobných zbraní mimo zbraní horkých – s náplní střelného prachu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 323,
+"name": "Kůžičkář",
+"description": "Lovil a prodával kůže drobných polních zvířat.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 324,
+"name": "Kůžkař",
+"description": "Typická osoba byl na brtnicku kůžkař. Nevím, jak mu jinde říkali. Měl zvláštní kabelu koženou, podle které ho každý poznával. Kabela na řemenu zavěšená šla mu kolem půl těla. Na zadním konci byla široká, v předu měla úzké, dlouhé hrdlo stažené řemínkem. Hrdlem tím cpal kůžičky do kabely. Chodíc po staveních ptal se, mají-li kůžičky krtčí, syslí, křečků, kuní. Kupoval-li též jiné, ani již nevím. Ale že mu byly nejmilejší drobounké, to se dobře pamatuji. Kožešinky ty prý šly do východních krajin na kožíšky bohatých dam. Později byl nahrazen kůžkařem motorizovaným. Na svém střičkém autě měl amliony ze kterých se stále dokola ozývalo:“Kůže, koupím kůže, kůže...“ Vykupoval však již jen kůže králičí, kočičí a psí.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 325,
+"name": "Kvinterník",
+"description": "Vyráběl dřevěné hudební nástroje – kytary a loutny.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 326,
+"name": "Kytléř ",
+"description": "Krejčí specialista. Šil lehké krytí – pláště a pláštěnky. Mnohdy bohatě zdobené vyšíváním.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 327,
+"name": "Ladař",
+"description": "Nákupce zboží po venkovech pro městské obchodníky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 328,
+"name": "Ladýř obilný",
+"description": "Nákupčí obilí.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 329,
+"name": "Ladýř chmele",
+"description": "Nákupčí chmele.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 330,
+"name": "Láhevník",
+"description": "Sklář vyrábějící láhve.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 331,
+"name": "Lamač kamene",
+"description": "Dobýval stavební kámen. . Lamařská práce má u nás velmi starou tradici. Kámen se dobýval ručně klínováním, které se při získání kvalitních kamenů udrželo dodnes. Do vysekaných otvorů se zarážely dřevěné klíny, které se zalévaly vodou. Tím nabývaly na objemu a trhaly horninu. Lomy se nezakládaly v úzkých údolích či brázdách, kde býval kámen zvětralý, ale na čelních svazích. Přihlíželo se k tomu, aby byl lom obrácen k severu, protože v takovém držel kámen déle lomovou vlhkost a snadněji se lámal a opracovával. Těžkou ruční práci při dobývání kamene později usnadnilo používání trhavin. Stavební kámen se těžil na na mnoha místech zpravidla jen pro potřeby majitelů panství, či místních obyvatel.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 332,
+"name": "Lamač vápník",
+"description": "Další profesí, která má přímou souvislost nejen s vápenictvím, bylo dobývání vápence. Pokud tuto činnost prováděl někdo jako svoji živnost, nazýval se lamač nebo skalník. Lamařská práce má u nás velmi starou tradici.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 333,
+"name": "Landfaréř",
+"description": "Potulný apatykář",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 334,
+"name": "Landkočí ",
+"description": "Viz vozataj.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 335,
+"name": "Lantkočí",
+"description": "Viz vozataj.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 336,
+"name": "Lavičník",
+"description": "Viz stoličník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 337,
+"name": "Lazebník",
+"description": "Majitel lázně studené i teplé. Lázeň bývala majetkem obce a pronajímala ji lazebníkovi za plat do dědičného držení. V teplé lázni posedávali hosté v horkém vzduchu a páře na lavicích. V mycích lázních byli hosté usazeni v oválných dřevěných kádích naplněných vodou a zakrytých prkny, aby horkost lázně déle vydržela. Při koupání, ale většinou až po něm, bylo hostům podáváno jídlo a pití. Při vlastní lázni byly obyčejně mimo jiné místnosti ještě dvě zvláštní komory. Jedné se říkalo „zuvadlna“, kde se návštěvníci zouvali, svlékali a svěřovali k opatrování své klenoty a peníze. V druhé provozoval lazebník nebo barbíř holení, stříhání a rozmanitější drobné chirurgické operace a trhání zubů. K osazenstvu lázně patřil lazebník a tovaryši specializovaní na různé práce jako: holiči, zuvadlníci, puštědlci, topiči a vodáci...",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 338,
+"name": "Ledař",
+"description": "Dobýval, uskladňoval a rozvážel led.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 339,
+"name": "Lékař",
+"description": "Léčil bez univerzitních zkoušek, jen měl ukončené studium.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 340,
+"name": "Lékař koňský",
+"description": "Zvěrolékař pro koně.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 341,
+"name": "Lepař",
+"description": "Viz Hliňák.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 342,
+"name": "Lesák",
+"description": "Ten, co byl zaměstnán v lese anebo také obchodník s řezivem - prkny",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 343,
+"name": "Leštič kovů",
+"description": "Zabýval se leštěním a jinými povrchovými úpravami kovů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 344,
+"name": "Leštič kamenů",
+"description": "Specialista kameník zabývající se leštěním mramoru, žuly, syenitu a pod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 345,
+"name": "Ležák",
+"description": "Viz faktor.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 346,
+"name": "Lichvář",
+"description": "Půjčoval peníze na úrok, obvykle se používalo pro označení osob kořistících z dlužníkových nesnází.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 347,
+"name": "Listonoš",
+"description": "Dříve úředník města roznášející listiny, nebyl zaměstnancem pošty.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 348,
+"name": "Lištař",
+"description": "Řemeslník vyrábějící a povrchově upravující úzké dřevěné latě ke krytí spár a trámů, podlah apod. Obvykle různě profilované, barvené, zlacené nebo stříbřené. Vyráběl rovněž polotovary pro rámování obrazů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 349,
+"name": "Litkupník přísežný",
+"description": "Městský úředník střežící dodržování obchodních nařízení, evidující prodávané zboží, zprostředkovávající obchod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 350,
+"name": "Ližník",
+"description": "Viz šrotéř.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 351,
+"name": "Lnář",
+"description": "Překupník lnu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 352,
+"name": "Locufilices ",
+"description": "Truhlář specializovaný na výrobu rakví.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 353,
+"name": "Lojovník",
+"description": "Řemeslník zabývající se výkupem a škvařením tvrdých živočišných tuků za účelem získání loje – suroviny pro výrobu mýdla, stearinu, a margarinu či užívaného k napuštění usní, vlny před spřádáním, mazadla a jiné.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 354,
+"name": "Lopatník",
+"description": "Kovář specialista vyrábějící různé lopaty a lopatky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 355,
+"name": "Loutečník",
+"description": "Soustružník specializovaný na výrobu loutek a jejich částí. Obvykle i zdatný dřevořezbář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 356,
+"name": "Loutkař",
+"description": "Putoval od vsi ke vsi a hrál loutkové divadlo.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 357,
+"name": "Loutnař",
+"description": "Výrobce dřevěných nástrojů – louten.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 358,
+"name": "Lucernář",
+"description": "Platnéř specializovaný na výrobu různých luceren – domovních, kočárových i hřbitovních a rovněž je i prodával s potřebným příslušenstvím.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 359,
+"name": "Lučišník",
+"description": "Výrobce tětivových střelných zbraní.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 360,
+"name": "Lukař",
+"description": "Hospodář v horách, kde převládal chov dobytka, hospodařící na lukách.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 361,
+"name": "Lůžkař",
+"description": "Výrobce dřevěných lůžek ke střelbě s praky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 362,
+"name": "Lžičník",
+"description": "Soustružník specializovaný na výrobu dřevěných lžic.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 363,
+"name": "Lázeňský",
+"description": "Od roku 1490 provozovali v Brtnici Starší (název pro tehdejší radní) z obce lázně. Nebyly to lázně v dnešním slova smyslu, ale spíše umývárny s lazebníkem.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 364,
+"name": "Lehké děvy",
+"description": "K čeládce šenkýřů se často přidávala i skupinka lehkých děv, které mimo obsluhy hostí prováděly svoji nekalou živnost. (Mnohdy výnosnější než šenk.)       ",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 365,
+"name": "Lékárník",
+"description": "Brtnice, jako městečko se špitálem měli již v roce 1882 svoji lékárnu a lékárníka.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 366,
+"name": "Lékař",
+"description": "Městečko mělo v roce 1882 již svého městského vyškoleného lékaře.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 367,
+"name": "Lesný pojezdný",
+"description": "Panský úředník, kterého si vybírá vrchnost ze svých měšťanů. Lesní pojezdný byl přímým představeným lesního personálu: myslivců, adjunktů a hajných. Objížděl jednotlivé revíry a dbal, aby byl všude pořádek. Vedl lesní účty. K prodeji dřeva však potřeboval souhlas hejtmana. V brtnickém panství od poloviny 17. století.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 368,
+"name": "Malíř ",
+"description": "Malíři malovaly především obrazy na přání, a to zejména portréty dětí a pro výdělek krajinky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 369,
+"name": "Malíř do kamene",
+"description": "Řídce se vyskytující specialista, malíř zhotovující mozaikové obrazy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 370,
+"name": "Mandlář",
+"description": "Kramář prodávající mandle a jiná jedlá semena.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 371,
+"name": "Mandlíř pláten",
+"description": "Řemeslník mandlující plátno. Řídce samostatný, obvykle tovaryš u tkalce.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 372,
+"name": "Manufakturista",
+"description": "Majitel manufaktury a v lidové mluvě řemeslník pracující pro manufakturu jako námezdní pracovník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 373,
+"name": "Marcipárník",
+"description": "Perníkář, který pekl z cukru, mandlí, kmínu a pod. cukrovinky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:12",
+"updated_at": "2021-01-12 10:02:12"
+},
+{
+"id": 374,
+"name": "Marketiér",
+"description": "Řemeslník zdobící povrch dřevěných předmětů perletí, želvovinou, bronzem, mědí, cínem a vzácnými dřevy. Zdobení prováděl povětšinou vykládáním.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 375,
+"name": "Mastičkář",
+"description": "Lékař nedouk.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 376,
+"name": "Materialista",
+"description": "Prodavač drog, chemikálií, surovin a lékárnických potřeb.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 377,
+"name": "Mazanečník",
+"description": "Pekař specialista na mazance a podobné kynuté pečivo.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 378,
+"name": "Mečíř",
+"description": "Nožíř specialista na meče a kordy a ostatní ruční sečné zbraně.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 379,
+"name": "Medař",
+"description": "Včelař, výrobce medoviny.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 380,
+"name": "Medailleur",
+"description": "Rytec medailí. Většinou ryl nejdůležitější části razidel mincí a medailové štočky pro královský dvůr. Zhotovoval také pečetidla.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 381,
+"name": "Medník",
+"description": "Vařil med a medovinu z materiálu opatřované Brtníkem.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 382,
+"name": "Medvědář",
+"description": "Potulný kejklíř, který chodil s cvičeným medvědem a předváděl různé kousky pro pobavení.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 383,
+"name": "Mechanikus",
+"description": "Mechanik, konstruktér a výrobce složitých pohyblivých zařízení. Velmi žádán na panských sídlech pro zhotovování různých tajných dveří a úkrytů v nábytku.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 384,
+"name": "Melouník",
+"description": "Viz Dýňař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 385,
+"name": "Metlář",
+"description": "Viz Košťatář. Výrobce metel a košťat.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 386,
+"name": "Mezuláník",
+"description": "Speialista tkadlec vyrábějící mezulán – tvrdé a silné plátno ze lnu a konopí.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 387,
+"name": "Mědikovec",
+"description": "Viz Kovář mědi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 388,
+"name": "Mědilijec",
+"description": "Řemeslník odlévající do různých forem nářadí, ozdoby (polotovary) a další výrobky z mědi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 389,
+"name": "Měřič",
+"description": "Obecní úředník pověřený kontrolou měr a dodržováním stanovených cen.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 390,
+"name": "Měřič solí",
+"description": "Ůředník pověřený na trhu kontrolou soli.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 391,
+"name": "Měďnář",
+"description": "Viz Kovář mědi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 392,
+"name": "Měšečník",
+"description": "Výrobce měšců, vaků a i jiných výrobků z kůže obvykle hojně zdobených různými technikami.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 393,
+"name": "Mincíř",
+"description": "Řemeslník v mincovně zaměstnaný přípravou a vyklepáváním cánů, jejich vystřihováním, srovnáváním a bílením střížků. V užším slova smyslu koval v mincovně plechy do určité tloušťky a připravoval je pro ražbu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 394,
+"name": "Ministeriál ",
+"description": "Nesvobodný služebník panovníka nebo velkých feudálů vykonávající dvorské, úřední nebo vojenské služby.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 395,
+"name": "Misař ",
+"description": "Viz okřinář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 396,
+"name": "Mistr",
+"description": "V cechu samostatný řemeslník, který najímal tovaryše. Obecně dobrý a kvalitní řemeslník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 397,
+"name": "Mistr polní",
+"description": "Městský pastýř.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 398,
+"name": "Mistr přísežný",
+"description": "Viz cechmistr.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 399,
+"name": "Míseč",
+"description": "Zaměstnanec pivovaru. Mísil pivo při vaření a kvašení.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 400,
+"name": "Miškař",
+"description": "Viz nunvář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 401,
+"name": "Mládek",
+"description": "Viz robenec.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 402,
+"name": "Mládek mlynářský",
+"description": "Mladší tovaryš ve mlýně, příslušník mlýnské čeledi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 403,
+"name": "Mladší čeledín",
+"description": "Námezdní pracovník, příslušník panské nebo selské čeledi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 404,
+"name": "Mladší děvečka",
+"description": "Námezdní pracovnice, příslušnice panské nebo selské čeledi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 405,
+"name": "Mlynář",
+"description": "Řemeslník meloucí obilné zrno na mouku a další moučné výrobky ve mlýně. Jako pomocníky najímal mlýnskou čeleď. Další zpracování zemědělských produktů bylo závislé na potřebách a znalosti našich předků. Obilí mleli buď doma v kamenných žernovnících, nebo si je nechali mlít ve vodních mlýnech. Mlynáři museli znát nejen mlít obilí, ale i umět stavět mlýny. Kromě mlýnů budovali i pily či vodní nástroje k valchování suken, museli ovládat budování mostů, jezů a břehů, přiváděli vodu do domů, či ji při záplavách ze sklepů a studní vyváděli.\\nV Brtnici za držby Buriana Brtnického z Valdštejna Panské byly dva vodní mlýny. Oba byly panské a nájemní. Ale už v roce 1623 mělo panství pět panských mlýnů. I tyto byly všechny vodní a nájemní . Brtnice měla v roce 1859 pouze 2 mlynáře jako samostatné živnostníky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 406,
+"name": "Mořipivo",
+"description": "Viz pivopal.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 407,
+"name": "Mosazník",
+"description": "Kovář nebo kotlář specializovaný na výrobu mosazných předmětů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 408,
+"name": "Mostník",
+"description": "Tesař specializovaný na stavby a opravy dřevěných mostů a lávek.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 409,
+"name": "Moštař",
+"description": "Viz tobolečník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 410,
+"name": "Muzikář",
+"description": "Muzikant hrající obvykle ve větší skupině hudebníků.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 411,
+"name": "Mydlář",
+"description": "Řemeslník vyrábějící různá mýdla z tuků.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 412,
+"name": "Mykač",
+"description": "Námezdný pracovník, který u soukeníka mykal přízi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 413,
+"name": "Myslivec",
+"description": "Panský zaměstnanec, který u obor a lesů se staral o zvěř a mel na starost jejich stavy, chov, krmení, odpovídal za její zdravotní stav a vedl hony.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 414,
+"name": "Mýtný",
+"description": "Královský, šlechtický nebo městský úředník pověřením vybíráním mýtného.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 415,
+"name": "Nádeník",
+"description": "Chudý delník najímaný k různým pracím.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 416,
+"name": "Nádobník",
+"description": "Hrnčíř nebo soustružník specializovaný na výrobu nádobí.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 417,
+"name": "Nákladník piva",
+"description": "Prodavač piva šenkovnám, hospodám a jiným odběratelům.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 418,
+"name": "Naplavač",
+"description": "Plavec dřeva. Příslušník plavecké čeledi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 419,
+"name": "Nápravník",
+"description": "Viz kolař. Vyráběl nápravy, podstavce a kostry do vozů a saní. Později se nazýval korbař nebo štelmař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 420,
+"name": "Nebořezkář",
+"description": "Kovář specializující se na výrobu nebozezů do dřeva a hlíny (pro zahradníky a vinaře).",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 421,
+"name": "Neckář",
+"description": "Výrobce dřevěných nádob sbíjením latí a prken. Někdy i dlabáním z celých kmenů. Specialista na necky a vaničky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 422,
+"name": "Nevodář",
+"description": "Specialista na výrobu „nevodů“ pro lov ryb.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 423,
+"name": "Niťař",
+"description": "Výrobce a obchodník s nitěmi, látačkami a podobným zbožím.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 424,
+"name": "Nosič",
+"description": "Námezdný pracovník k nošení břemen.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 425,
+"name": "Nožíkář",
+"description": "Specialista na výrobu různých nožíků, zejména specielních druhů a nůžek rozličných typů a tvarů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 426,
+"name": "Nožíř",
+"description": "Kovář specialista na výrobu polotovarů i hotových nožů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 427,
+"name": "Nunvář",
+"description": "Zvěroklestič. Býky klestil na voly a i ostatní dobytek klestil pro jejich klidnější povahu a lepší výnosnost.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 428,
+"name": "Nůžkař",
+"description": "Viz nožíkář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 429,
+"name": "Obchodník",
+"description": "Další důležitou živností, která se vyskytovala prakticky všude, bylo obchodování. Na venkově však byla obchodní činnost v dobách, kdy byl založen a osídlena Brtnice, na velmi nízké úrovni. Materiál na stavbu obydlí získali naši prapředkové z lesů, které postupně vymyťovali, potraviny si zajišťovali z vlastní produkce a mnohé nářadí vyráběli doma. Teprve v pozdějších dobách se obchodní činnost začala rozvíjet s rozmachem nadbytku zboží vlivem specializace a Brtnice se stala významnou osadou s právem trhů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 430,
+"name": "Obchodník podkotecký",
+"description": "Obchodník, který prodával pod kotci.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 431,
+"name": "Obchodník podomní",
+"description": "Převeliká rozmanitost a pestrost byla při kočovném životě obchodním! Mnozí z nich jsou sami vyrabitelé nabízených ke koupi tovarů. Jsou to: řitičáři, lopatáři, vařečkáři, vyrabitelé zboží loubkového, slaměného a p., k nimž patří ošatkáři, rohožkáři, bačkoráři; dále jsou knoflíkáři (nitěných knoflíčků), krajkářky, štětkaři, hřebenáři, řemínkáři (pohodní), pometláři, vyrabitelé prostých holí, násadek a dýmek dřevěných (ze dřeva jalovcového, ti již zanikají).\\nSpadají sem ještě vyrábitelé různého náčiní, zvláště ve lnářství a tkalcovství užívaného. Pro polní hospodáře roznášely se lýčené provazy, houžve, vidle, bijáky k cepům, voršoufy (lopaty dřevěné) a j.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 432,
+"name": "Oborník",
+"description": "Panský zaměstnanec mající v péči oboru zvířecí a okrasnou.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 433,
+"name": "Obrazník",
+"description": "Viz Řezáč.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 434,
+"name": "Obročný",
+"description": "Obročný – podléhal purkrabímu. Měl na starosti manipulaci s obilím, jeho prodej a koupi, setbu a sklizeň. Z jeho činnosti vznikaly osevní, sklizňové a výmlatní rejstříky a obilní účty. Obročný také přejímal obilí pro pivovar. To si pak přebíral sládek, dle potřeb jednotlivých várek.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 435,
+"name": "Obuvník",
+"description": "V roce 1882 měla Brtnice obuvníků 36 živností.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 436,
+"name": "Odpovědník",
+"description": "Odpůrce krále, majitele panství, který přepadal a olupoval kupce.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 437,
+"name": "Ohánečník",
+"description": "Řemeslník, který z ptačích per vyráběl vějíře sloužící původně k odhánění much. Až později jako módní doplněk. Výrobce „kohoutů“ na ometání prachu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 438,
+"name": "Okřinář",
+"description": "Soustružník specializovaný na výrobu dřevěných mis a talířů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 439,
+"name": "Okulista",
+"description": "Léčitel využívající k léčení pověr.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 440,
+"name": "Olejník",
+"description": "Řemeslník, který vyráběl olej na mlýnech ve stoupách z různých mastných semen tlučením a lisováním. Prodával však nejen olej, ale často i hrách, jáhly, kroupy, proso, mák a pod. Je pravděpodobné, že tato činnost byla rovněž v Brtnici, neboť máme uličku s názvem této činnosti.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 441,
+"name": "Oplatečník",
+"description": "Pekař specializovaný na pečení a výrobu oplatků čistých i s různou náplní.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 442,
+"name": "Oráč",
+"description": "Námezdní pracovník najímaný statkářem, sedlákem na orání pole. Mnohdy i s koňmi a pluhem.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 443,
+"name": "Orlojník",
+"description": "Vzácný specialista hodináře, využívající při výrobě hodinových mechanizmů znalosti astronomie.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 444,
+"name": "Ostrožník",
+"description": "Specialista zámečník vyrábějící ostruhy pro jezdce.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 445,
+"name": "Otrubník",
+"description": "Obchodník s otrubami.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 446,
+"name": "Ovčák",
+"description": "Pastýř ovcí. Většinou nejen ovce pásl, ale také dojil a vyráběl sýry.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 447,
+"name": "Ovocník",
+"description": "Obchodník s ovocem domácím i cizokrajným.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 448,
+"name": "Pachole",
+"description": "Viz Robenec.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 449,
+"name": "Pachole nevyučené",
+"description": "Viz Robenec.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 450,
+"name": "Paknecht",
+"description": "Lázeňský pomocník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 451,
+"name": "Palič vína",
+"description": "Viz Vinopalník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 452,
+"name": "Pan otec",
+"description": "Hospodář tovaryšský a také mistr mlynářský.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 453,
+"name": "Pancéřník",
+"description": "Viz Brníř.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 454,
+"name": "Papírník",
+"description": "Řemeslník vyrábějící papír, původně ze starých hadrů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:13",
+"updated_at": "2021-01-12 10:02:13"
+},
+{
+"id": 455,
+"name": "Parketář",
+"description": "Specifickým truhlářstvím bylo parketářství, zabývající se kladením parketových podlah. A výrobou parketových dílců z různých dřev do rozličných tvarů a obrazců skládaných.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 456,
+"name": "Parléř",
+"description": "Viz Tovaryš.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 457,
+"name": "Parukář",
+"description": "Výrobce paruk, Vlásenkář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 458,
+"name": "Pasák",
+"description": "Viz Pastýř.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 459,
+"name": "Pasamantář",
+"description": "Viz Prýmkař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 460,
+"name": "Pasíř",
+"description": "Řemeslník zhotovující ozdobné pásy pro ženy a muže. Na kožené, hedvábné, aksamitové a jiné pásy (řemeny) zhotovoval a připevňoval ozdoby z drahých i obvyklých kovů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 461,
+"name": "Pastevec",
+"description": "Pastýř pasoucí stáda na velkém území a měnící pastvu po vypasení.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 462,
+"name": "Pastičkář",
+"description": "Výrobce pastí a pastiček.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 463,
+"name": "Pastýř",
+"description": "Příslušník panské čeledi nebo obecní zaměstnanec. Důležitými osobami byli  obecní pastýři Tito vyháněli dobytek na pastvu, kde se o něj starali dle přísných pravidel. Jinak se páslo za veder, jinak za deště a zimy. Pastýř nesměl pást v místech, kde rostly jedovaté bylinky, ani v blízkosti mrchovišť. Podle chování jednotlivých kusů dobytka, např. když sléhal nebo zaostával za stádem, či těžce dýchal, musel sledovat jeho zdravotní stav a ohlásit to neprodleně jeho majiteli. Zvláště musel být obezřetný, když v okolí vypukla nějaká nemoc. Obecní pastýř čili slouha též uměl kastrovat býčky, kančíky a berany a rozpoznat i léčit nemoci dobytka. Dobytek se pásl nejen na obecních pastviskách či na úhorech jednotlivých sedláků, ale i v lese, kde jeho oblíbenou potravou byly plody stromů, zejména dubů a buků. Připomínkou těchto starých časů jsou místní názvy \"Příhon\" nebo \"Na Příhoně\", což byly cesty, kterými se dobytek přiháněl na pastvu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 464,
+"name": "Pašerák",
+"description": "Potajmu převážel či přenášel zboží přes hranice mimo celnice, nebo pašoval zboží zapovězené.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 465,
+"name": "Paštičkář",
+"description": "Pekař masových paštik.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 466,
+"name": "Paterník",
+"description": "Soustružník specialista na výrobu růženců ze dřeva, ale i z korálů, jantaru a pod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 467,
+"name": "Páteřník",
+"description": "Viz Paterník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 468,
+"name": "Paznohetník",
+"description": "Obchodník s paznechty.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 469,
+"name": "Pecivál",
+"description": "Pozoruhodnými figurkami na venkově byli peciválové, kteří celí umounění putovali od vesnice k vesnici a opravovali a vymazávali pece. Na brtnicku byl největším potěšením mládeže koncem 18. století pecivál »prskař«, zvaný.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 470,
+"name": "Pecnář",
+"description": "Obvykle přespolní pekař, který směl péci pouze hrubý chléb po dvou penězích.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 471,
+"name": "Pečetník",
+"description": "Výrobce pečetidel.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 472,
+"name": "Pekař",
+"description": "Výrobce a obchodník, který pekl chléb a další moučné výrobky v pekařské peci.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 473,
+"name": "Pekař boží",
+"description": "Pekař specialista na pečení hostií pro kostely.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 474,
+"name": "Penězoměnec",
+"description": "Královský, městský nebo obecní úředník, který při různosti středověkých měn zprostředkovával směnu peněž a dbal, aby se nevyskytovaly falešné peníze.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 475,
+"name": "Penězovažič",
+"description": "Královský, městský nebo obecní úředník, který kontroloval a vážil správnost váhy mincí.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 476,
+"name": "Pergameník",
+"description": "Výrobce kožených pergamenů používaných na úřední listiny.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 477,
+"name": "Perleťář",
+"description": "Výrobce předmětů z perleti, nejen knoflíků.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 478,
+"name": "Pernař",
+"description": "Viz Pouzdrař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 479,
+"name": "Perníkář",
+"description": "Pekař specialista na perníky. Mouku zadělával medem.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 480,
+"name": "Peřinečník",
+"description": "Řemeslník čistící peří.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 481,
+"name": "Peřinář",
+"description": "Výrobce středověkých kožených polštářů plněných peřím, později i plátěných polštářů a duchen.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 482,
+"name": "Pícník",
+"description": "Obchodník se senem a ovsem – pící.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 483,
+"name": "Pilař",
+"description": "Výrobce řeziva a majitel, nebo nájemce pily a obchodník s prkny. Za držby městečka Brtnice Burianem Brtnickým z Valdštejna byla v provozu jedna vodní pila. A už v roce 1623 za držby Collalta et San Salvatore pily čtyři. Později, od roku 1882 také velkostatková panská pila. V lidové mluvě to byl také kovář specialista na výrobu pil.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 484,
+"name": "Pilníkář",
+"description": "Výrobce a obchodník prodávající pilníky, rašple, škabáky a podobné zboží.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 485,
+"name": "Pintner",
+"description": "Viz Bednář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 486,
+"name": "Pintéř",
+"description": "Viz Bednář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 487,
+"name": "Pípař",
+"description": "Soustružník, specialista truhlář vyrábějící pípy k sudům.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 488,
+"name": "Písař",
+"description": "Většinou zaměstnanec obce. Jeho povinností bylo zejména zapisování ouředních lejster. Opisoval za úplatu knihy a sepisoval listina pro analfabety.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 489,
+"name": "Písař kancionálů",
+"description": "Většinou kněz, nebo chovanec kláštera který opisoval zpěvníky, soubory kostelních náboženských písní, mnohdy bohatě zdobených.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 490,
+"name": "Písař důchodní",
+"description": "Panský úředník kterého si vybírá vrchnost ze svých měšťanů. Důchody celého panství zapisoval do jednotlivých důchodních účtů důchodní písař – zvaný důchodní.  Jeho kanceláři na zámkuse soustřeďovaly příjmy ze všech hospodářských odvětví panství. Důchodní vybíral od všech poddaných na sv. Václava a na sv. Jiřídávky a daně. Ve vzdálených obcích přebíral tuto povinnost kontribuční výběrčí v městečku Brtnice to byl purkmistr. Důchodní vyplácel mzdy, jeho rukama prošly peníze za koupi a prodej dobytka a různých hospodářských produktů.  Důchodní též vedl účty pivní a rybniční. Přijaté peníze dával do truhly, kterou dobře uzamkl. Druhý klíč měl hejtman. Na brtnickém panství od poloviny 17. století.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 491,
+"name": "Písař obroční",
+"description": "Panský úředník kterého si vybírá vrchnost ze svých měšťanů. Na brtnickém panství od poloviny 17. století.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 492,
+"name": "Písař solní",
+"description": "Viz Solař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 493,
+"name": "Pískař",
+"description": "Obchodník s pískem. Majitel pískovny prodávající a zajišťující dopravu různých písků a jemné drtě.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 494,
+"name": "Písničkář",
+"description": "Skládal a na jarmarcích prodával i opisy textů písní.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 495,
+"name": "Pištec",
+"description": "Městský nebo dvorní hudebník na píšťaly.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 496,
+"name": "Pištělník",
+"description": "Výrobce dřevěných hudebních nástrojů – píšťal. Vyráběl také různé vábničky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 497,
+"name": "Pivopalník",
+"description": "Kořalku nebo líh prodávali pivopalové , kteří ji pálili ze zkaženého piva.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 498,
+"name": "Pivovarník",
+"description": "Viz Sládek. Už za držby městečka Brtnice Burianem Brtnickým z Valdštejna (1489 až 1544) mělo brtnické panství dva pivovary, z toho jeden přímo v Brtnici.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 499,
+"name": "Plachetník",
+"description": "Viz Pecnář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 500,
+"name": "Pláštník",
+"description": "Krejčí specializovaný na šití plášťů – kabátů bez rukávů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 501,
+"name": "Pláteník",
+"description": "Tkadlec plátna a také obchodník s plátnem a látkami.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 502,
+"name": "Platnéř",
+"description": "Vyráběl pláty – součásti brnění (na nohy, ramena, prsa), později plátové kyrysy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 503,
+"name": "Plátýnkář",
+"description": "Specialista na výrobu mlynářského plátna.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 504,
+"name": "Plavec dřev",
+"description": "Námezdní pracovník zabývající se splavováním dřeva po vodě. Ne Vorař. (Ten uměl i klády vázat do vorů.)",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 505,
+"name": "Plíškař",
+"description": "Řemeslník zhotovující malé kovové lesklé plíšky – lamely.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 506,
+"name": "Plotnář",
+"description": "Řemeslník specializovaný na kování a výrobu železných sochorů a lití silných plátů kamen a pod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 507,
+"name": "Plstnář",
+"description": "Výrobce specializovaný na výrobu sedlářské a ševcovské plsti.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 508,
+"name": "Pluhař",
+"description": "Kovář a zámečník zabývající se výrobou pluhů na statku to byl příslušník čelské čeledě – pomocník oráče.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 509,
+"name": "Podeševkraječ",
+"description": "Vetešník opravující podrážky obuvi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 510,
+"name": "Podkovář",
+"description": "Ke kovářství patřilo od nejstarších dob nerozlučně podkovářství, kterým rozumíme řemeslo, zabývající se výrobou podkov a jejich přizpůsobováním na kopyta nebo paznehty zvířat. Podkovář podkovával koně proto, aby jejich kopyta při běhu, při chůzi a hlavně při práci na tvrdých cestách netrpěla, a zároveň aby se kůň v tahu nesmekal a mohl se dobře opírat.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 511,
+"name": "Podsadník",
+"description": "Výrobce dřevěných a proutěných podsad pro drůbež.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 512,
+"name": "Pohonič",
+"description": "Pomocník oráče pohánějící a vodící dobytek při orbě. Příslušník selské čeledě.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 513,
+"name": "Pohodní",
+"description": "Viz Ras. Dalšími zajímavými postavami byli pohodní, kterým se též říkalo   rasi. Tito se zabývali odvozem zdechlin, ze kterých stahovali kůže, a které zakopávali na mrchovištích.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 514,
+"name": "Pochvař",
+"description": "Vzácnější příbuzné řemeslo tobolečníka a měšecníka, výrobce „pochev“ na sečné a bodné zbraně.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 515,
+"name": "Pokladník",
+"description": "Specializovaný truhlář a zámečník zabývající se výrobou pokladnic a uzamykatelných truhlic.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 516,
+"name": "Poklasný",
+"description": "Panský zaměstnanec. Řídil polní práce panské čeledi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 517,
+"name": "Pokrývač",
+"description": "Řemeslník zhotovující latění a pokrývající střechy tvrdou krytinou.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 518,
+"name": "Polazér",
+"description": "Viz Puléř.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 519,
+"name": "Policajt",
+"description": "Obecní zaměstnanec střežící obecní pořádek a dbající na dodržování obecních nařízení a vyhlášek.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 520,
+"name": "Pomahač",
+"description": "Nádeník v pivovaře.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 521,
+"name": "Popelář",
+"description": "Obchodník s popelem, zejména s dřevěným popelem. (Neprováděl odvoz popela a odpadků.)",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 522,
+"name": "Ponocný",
+"description": "V Brtnici bylo zavedeno noční hlídání vesnice, podobně jako ve všech okolních obcí. Bylo zaměřeno proti zlodějům, žhářům a rušitelům nočního klidu. Ponocný měl hlásit případný vznik požáru ve vesnici nebo okolí, hrozící povodeň a počtem písknutí na píšťalu nebo zatroubení na roh oznamoval, kolik je právě hodin. Povinnost hlídání přecházela den po dni z jednoho domu na druhý. Ráno podal hlídač starostovi zprávu o průběhu hlídání a předal sousedovi ve vedlejším domě píku a píšťalu (roh). Píka byla zbraní ponocného. Občanská povinnost nočního hlídání obce nebyla nikterak vítanou záležitostí, zejména za deštivého počasí a zimního období. Proto zámožnější sousedé za sebe nechávali za úplatu hlídat někohoz vesnické chudiny. Postupem času byla zavedena funkce ponocného.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 523,
+"name": "Popruhář",
+"description": "Specialista na výrobu popruhů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 524,
+"name": "Popružník",
+"description": "Viz Popruhář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 525,
+"name": "Porodní bába",
+"description": "Viz Bába porodní. Bez zkoušek a úředního povolení pomáhala při porodu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 526,
+"name": "Porybný",
+"description": "Vrchnostenský zaměstnanec, správce rybníků. Porybný tvoří přechod od panského úředníka ke služebnímu personálu. Na brtnickém panství od poloviny 17. století.\\nVe městech to byl městský zaměstnanec, který řídi trh s rybami a dbal zejména na jejich čerstvost.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 527,
+"name": "Posel",
+"description": "Doručoval z místa na místo listiny nebo vzkazy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 528,
+"name": "Posel koňský",
+"description": "K doručování zpráv používal koně.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 529,
+"name": "Poslíček",
+"description": "Doručování listin v dřívějších dobách vykonávali poslové, kteří tak obstarávali styk hlavně mezi vyššími společenskými vrstvami, pro vojenské účely a pod. Zasílání zpráv mezi širokými vrstvami  obyvatelstva se rozšířilo až v 19.  století,  kdy vlivem zrušení  nevolnictví  došlo k pohybu osob a hospodářskému rozmachu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 530,
+"name": "Postelník",
+"description": "Truhlář, specialista na výrobu postelí. Zejména postelí s nebesy a bohatě zdobené.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 531,
+"name": "Postřihovač",
+"description": "Postřihovač suken byl v Brtnici v roce 1851 již jen jeden.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 532,
+"name": "Postřihovač suken",
+"description": "Napínal, rovnal a postřihoval sukno.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:14",
+"updated_at": "2021-01-12 10:02:14"
+},
+{
+"id": 533,
+"name": "Poštář",
+"description": "Pomocník poštmistra.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 534,
+"name": "Poštmistr",
+"description": "Správce pošty. Městečko Brtnice mělo nejenom svou budovu pošty na náměstí, (dodnes se říká „U pošty“), ale také v roce 1882 již svého poštmistra.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 535,
+"name": "Prodavač podomní",
+"description": "Podomní prodavači měli rozsáhlý sortiment jehlic, pentlí, tkanic a podobného  zboží. Své zboží nabízeli ponejvíce z jakéhosi pultíku pověšeného     na řemínku na krku. Podomní obchodníci jsou obchodníci v pravém slova smyslu, roznášejíce tovary cizí. K těm náleží: niťaři, tkalounkáři, jehlaři, brouskaři, nožaři, pláteníci a šátkaři, hračkáři, škatuláři, obrazníci a j. Opět jiní nosí na prodej jen    surové nebo polosurové přírodniny: jalůvčinky, koření, semena, sušené ovoce, sladké dřevo, pendrek, křesací kameny a hubky, puškvorec, potměchut, lep na ptáky, kolomaz, kopt, oleje a sádla (hadí, jezevčí) a různé léky (masti).  Někteří místo zboží (vorkaufu, tovaru) propůjčují se ke službám a práčem, jsou to : drátaři, brusíři, parapláři, pilkaři, šindeláři, nunvaři (míškaři), myšaři (traviči krys), baňkaři, (sázejí baňky = pouštějí krev). Někteří zase zboží sami kupují nebo vyměňují, jako jsou hadrníci a vlasaři. Jiní zase skupují peří, kožešiny, starý cín, měď nebo mosaz a jiné tovary.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 536,
+"name": "Provazník",
+"description": "Toto řemeslo patřilo až do dvacátých let 20. století k běžným řemeslům. Práce provazníků spočívala ve svinování praménku koudele (což je krátké vlákno odpadající při zpracování konopí, lýka nebo lnu) v motouz na otáčejícím se velkém provaznickém kole. Hbitými prsty provazníka byl pramének koudele vysoukáván a srovnáván. Kolo roztáčel učedník nebo další příslušník rodiny.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 537,
+"name": "Pouzdrař",
+"description": "Příbuzné řemeslo Tobolečníka a Měšečníka. Výrobce rozličných pouzder z různých materiálů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 538,
+"name": "Pouzdrník",
+"description": "Viz Pouzdrař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 539,
+"name": "Povozník ",
+"description": "Viz Vozataj.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 540,
+"name": "Pozamentník",
+"description": "Viz Prýmkař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 541,
+"name": "Pozaunér",
+"description": "Trubač na pozoun.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 542,
+"name": "Pozlacovač",
+"description": "Řemeslník, který pozlacoval obvykle stříbrné předměty.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 543,
+"name": "Pračník",
+"description": "Viz Prakař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 544,
+"name": "Pradlí",
+"description": "Viz Pradlena.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 545,
+"name": "Pradlena",
+"description": "Nádenice, která prala prádlo buď u cizích, nebo doma. To potom i většinou žehlila a v ruce opravovala.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 546,
+"name": "Prachař",
+"description": "Výrobce střelného prachu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 547,
+"name": "Prakař",
+"description": "Výrobce střelných zbraní – praků. Jednak ručních praků – kožených, ale i velkých dřevěných vrhacích strojů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 548,
+"name": "Prasečkář",
+"description": "Obchodník s prasaty a selaty.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 549,
+"name": "Prasatář",
+"description": "Pastýř prasat.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 550,
+"name": "Prášek",
+"description": "Starší učeň ve mlýně.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 551,
+"name": "Preclíkář",
+"description": "Pekař specializovaný na pečení velkých preclíků, těsto hnětl, vařil a sušil v peci.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 552,
+"name": "Pregléř",
+"description": "V mincovně razič mincí.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 553,
+"name": "Presař",
+"description": "Viz Knih tiskař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 554,
+"name": "Prknař",
+"description": "Viz Struhař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 555,
+"name": "Prorok",
+"description": "Viz Hvězdář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 556,
+"name": "Proutkař",
+"description": "Senzibil schopný vnímat různá silová pole Země a podle toho proutkem vyhledávat vodu či rudné žíly.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 557,
+"name": "Provazník",
+"description": "Výrobce provazů a lan, obvykle konopných.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 558,
+"name": "Prťák",
+"description": "Švec vetešník, správkař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 559,
+"name": "Prýmkař",
+"description": "Řemeslník zabývající se výrobou textilních prýmků, tkalounů, šňůr a pod., jednoduchých i zdobených korálky, perlami,... vyráběl různé ozdoby na šaty. Jeho surovinou byly nitě, hedvábí. Chlupy, bavlna, vlna, konopí, len a jiné módní materiály.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 560,
+"name": "Přádkář",
+"description": "Viz Přadlec.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 561,
+"name": "Přádka",
+"description": "Viz Přadlec.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 562,
+"name": "Přadlec",
+"description": "Předl vlákna ze lnu, konopí, vlny a podobných materiálů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 563,
+"name": "Přadlák",
+"description": "Viz Přadlec.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 564,
+"name": "Přadlíř",
+"description": "Viz Přadlec.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 565,
+"name": "Překupník",
+"description": "Viz Hokyník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 566,
+"name": "Přeskař",
+"description": "Viz Přezkář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 567,
+"name": "Přesličník",
+"description": "Soustružník specializovaný na výrobu přeslic.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 568,
+"name": "Převozník",
+"description": "Obstarával převoz přes řeku na loďce nebo prámu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 569,
+"name": "Přezkář",
+"description": "Řemeslník vyrábějící různé přezky a kroužky z různých materiálů. Přezky byly mnohdy bohatě ryté nebo zdobené.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 570,
+"name": "Přezák",
+"description": "Obchodník s přízí.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 571,
+"name": "Příštipkář",
+"description": "Švec vetešník, opravář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 572,
+"name": "Psář",
+"description": "Staral se o chov panských psů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 573,
+"name": "Ptáčník",
+"description": "Viz Čižbař. Obchodník s drobným ptactvem, zejména zpěvným. Též ptáky choval, množil a potom prodával.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 574,
+"name": "Pukléř",
+"description": "Výrobce vypouklých kulatých štítů. Specialista Štítař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 575,
+"name": "Puléř",
+"description": "Řemeslník zdobící zdi monumentálních staveb a místností drahokamy a polodrahokamy, které si mnohdy i sám leštil.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 576,
+"name": "Pulérník",
+"description": "Řemeslník leštící zbraně a brnění.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 577,
+"name": "Purkmistr",
+"description": "První zmínka o Purkmistrovi je z roku 1849. V těch letech neodváděli brtničtí naturální dávky. Peněžní dávky vybíral a vrchnosti odváděl purkmistr a prostřednictvím starších (radních). Posledním purkmistrem v Brtnici byl František Hoffman.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 578,
+"name": "Purkrabí",
+"description": "Panský úředník kterého si vybírá vrchnost ze svých měšťanů. V Brtnici měl dohled nad celým hospodářstvím. Byl přímo podřízen hejtmanovi a podléhali mu všichni ostatní úředníci. Pro všechny panské dvory vedl řádný rejstřík o všem dobytku, co přibylo nebo ubylo a pak měsíční cedule. Na podkladě měsíčních cedulí sestavoval purkrabí pololetní nebo celoroční účty. Do jeho evidence náležel i tak zvaný „sklad“. V brtnickém panství od poloviny 17. století.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 579,
+"name": "Puškař",
+"description": "Výrobce – litec – železných a bronzových pušek (obdoby dnešních děl) ke střelbě prachem. Obvykle i řídil střelbu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 580,
+"name": "Puštědlník",
+"description": "Lázeňský pomocník pouštějící žilou.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 581,
+"name": "Pytlák",
+"description": "Označení pro toho, kdo střílel a kradl cizí zvěř.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 582,
+"name": "Rajféř",
+"description": "Viz Rajféř suken.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 583,
+"name": "Rajféř suken",
+"description": "zvláštním nástrojem vyškubával uzly vzniklé při tkaní pláten.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 584,
+"name": "Ranhojič",
+"description": "Viz Cilorog. Většinou se rekrutovali z vojenských felčarů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 585,
+"name": "Ranlék",
+"description": "Viz Cilorog.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 586,
+"name": "Ranlékař",
+"description": "Viz Cilorog.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 587,
+"name": "Ras",
+"description": "Viz Pohodní. Někdy obecní zřízenec odklizující mršiny, utrácející vzteklá a nemocná zvířata (Při července, zvířecím moru a pod.)",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 588,
+"name": "Rasík",
+"description": "Viz Ras.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 589,
+"name": "Ratajčník",
+"description": "Viz Oráč.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 590,
+"name": "Ratištník",
+"description": "Soustružník specializující se na výrobu ozdobných ratišťat – tyčím k praporům a kopím.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 591,
+"name": "Refléř",
+"description": "Viz Švec vetešník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 592,
+"name": "Reflíř",
+"description": "Viz Švec vetešník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 593,
+"name": "Rektor",
+"description": "Správce a řídící školy. V Brtnici od let 1535-6, kdy byla zřízena škola obecná na faře, byl poprvé jmenován za rektora této školy Mikuláš.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 594,
+"name": "Regent",
+"description": "Nejvyšší úředník panství a hlavní pokladník. Jmenuje ho majitel panství. Vybírá si z měšťanů. V polovině 17. století byla tato funkce ustanovena i v Brtnici.  ",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 595,
+"name": "Rendlíkář",
+"description": "Hrnčíř specializovaný na výrobu rendlíků.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 596,
+"name": "Rindléř",
+"description": "Viz Přezkář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 597,
+"name": "Robenec",
+"description": "Vyučenec, který nepoužíval práv tovaryše. (Obvykle pro přílišné mládí.)",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 598,
+"name": "Rotšmid",
+"description": "Viz Kovář mědi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 599,
+"name": "Rotšmíd",
+"description": "Viz Kovář mědi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 600,
+"name": "Rohožník",
+"description": "Řemeslník, který splétal z proutí nebo slámy rohože.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 601,
+"name": "Rolničkář",
+"description": "Řemeslník specializovaný na výrobu rolniček.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 602,
+"name": "Rourař",
+"description": "Viz Rourník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 603,
+"name": "Rourník",
+"description": "Specializovaný struhař, který vrtal dřevěné trouby k vedení vody.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 604,
+"name": "Roušnice",
+"description": "Viz Šlojířnice.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 605,
+"name": "Ručničkář",
+"description": "Výrobce ručních střelných zbraní – ručnic.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 606,
+"name": "Rudník",
+"description": "Staré označení pro havíře rud kovů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 607,
+"name": "Rukavičník",
+"description": "Viz Rukavičkář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 608,
+"name": "Rukavičkář",
+"description": "Výrobce rukavic.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 609,
+"name": "Rúrař",
+"description": "Viz Rourař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:15",
+"updated_at": "2021-01-12 10:02:15"
+},
+{
+"id": 610,
+"name": "Rúrmistr",
+"description": "Viz Rúrmajster.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 611,
+"name": "Rúrmajster",
+"description": "Opravář potrubí (rúr) a vodovodů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 612,
+"name": "Růženečkář",
+"description": "Viz Paterník. Výrobce růženců. V lidové řeči označení pro Modláře.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 613,
+"name": "Rybář",
+"description": "Lovil, choval a prodával ryby.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 614,
+"name": "Rybníkář",
+"description": "Stavitel vodních staveb, zejména rybníků a náhonů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 615,
+"name": "Rychtář",
+"description": "Jmenovaný rychtář v Brtnici (jak je uváděno v závěti markraběte Jana Jindřicha z roku 1371) byla funkce dědičná, a protože městečko bylo zeměpanské, byl rychtář i představitelem markraběcí správy v rámci markraběcích statků a vesnic. Zde měl za povinnost vybírat feudální rentu mýto a další dávky a i zde měl nižší soudní pravomoc.Rychtář rozsuzoval nejnižší nehrdelní pře, organizoval vybírání dávek, mýtného a řadu dalších služeb vrchnosti. Zastupoval práva obce a sám měl za to podíl na peněžních i naturálních pokutách a vlastnictví úrokem nezatížených lánů apod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 616,
+"name": "Řezáč dřeva",
+"description": "Námezdný pracovník najímaný k řezání dřeva na otop.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 617,
+"name": "Rýmař",
+"description": "Viz Řemenář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 618,
+"name": "Rynkéř",
+"description": "Viz Kroužník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 619,
+"name": "Rytec",
+"description": "Řemeslník, většinou zlatník ryjící do kovu (obvykle drahého), nebo hotových předmětů obrazy a písmo.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 620,
+"name": "Ryknecht ",
+"description": "Pacholek u koní.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 621,
+"name": "Řebříkář",
+"description": "Výrobce dřevěných žebříků.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 622,
+"name": "Řemenář",
+"description": "Výrobce kožených řemenů. Řezal, mazal a barvil je, nevyráběl ale opasky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 623,
+"name": "Řemeslník boudní",
+"description": "Řemeslník a obchodník, který současně s výrobou své výrobky také prodával v kotci – boudě.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 624,
+"name": "Řešetář",
+"description": "Výrobce dřevěných sít a řešet.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 625,
+"name": "Řetězník",
+"description": "Kovář specializovaný na výrobu různých řetězů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 626,
+"name": "Řezáč dřeva",
+"description": "Řemeslník zhotovující vyřezáváním různé dřevěné plastiky a další řezbářské práce ze dřeva lipového, řídce hruškového a pod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 627,
+"name": "Řezáč do drahých kamenů",
+"description": "Rytec, eventuelně brusič drahých kamenů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 628,
+"name": "Řezáč kamenů a skla",
+"description": "Rytec do skla a kamene. Kameny také leštil a jinak připravoval pro další zasazení.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 629,
+"name": "Řezáč kovů",
+"description": "Viz Rytec.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 630,
+"name": "Řezáč pečetí a erbů",
+"description": "Rytec specializovaný na výrobu pečetí a rytých erbů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 631,
+"name": "Řezáč vína",
+"description": "Viz Vinař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 632,
+"name": "Řezník",
+"description": "Řeznictví je řemeslo téměř stejně staré jako člověčenstvo. Podle bible již první lidé odívali se kožemi zvířat a přinášeli bohu oběť krvavou. Kněží pohanští a židovští byli vlastně řezníci, kteří zabíjeli zvířata chrámu darovaná, určité jejich části obětovali, kdežto zbytek podrželi pro sebe a své hosty. Nejdůležitější prací řezníka jest nákup Zvíře k porážce určené nechá se, pokud to jde, odpočinouti.\\nŘezník obchodník, který porážel dobytek, maso porcoval k prodeji a prodával. Vyráběl masné výrobky. Dobytek, který chovali naši předkové, využívali z části pro svoji potřebu, část prodávali nebo odváděli jako dávku svému pánovi. Maso z domácího zvířectva i z lesní zvěře si zpočátku každý zpracovával sám. Řezníci se v našich zemích objevují až ve 13. století, kdy se tvoří řeznické cechy a řeznická bratrstva.\\nCech těchto urostlých řemeslníků požíval již historicky značné úcty, o čemž svědčí jejich znak s českým lvem, držícím v tlapách sekeru. To prý jim propůjčil král Jan Lucemburský za válečnou statečnost při boji o Prahu. Řezníci vskutku nebyli žádní třasořitkové a konšelé s nimi neměli nikdy lehké pořízení. Společensky se počítali mezi \"velké pány\". Vždyť často mimo jatka, udírnu a krám provozovali i hospodu s výčepem. Brtnice měla v roce 1859 již 7 řeznických živností.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 633,
+"name": "Řezník uzenář",
+"description": "Uzenářské řemeslo bylo úzce spjato s řeznictvím, s nímž tvořívalo od konce 13. století společný cech Řeznictví a uzenářství.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 634,
+"name": "Sadař",
+"description": "Viz štěpař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 635,
+"name": "Sádelník",
+"description": "Řezník zkupující surové sádlo a lůj. Suroviny zpracovával a prodával z ní výrobky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 636,
+"name": "Sanytrník",
+"description": "Viz prachař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 637,
+"name": "Sedlář",
+"description": "Kožedělnou výrobou se u nás odedávna zabývali řemenáři, uzdaři a sedláři. Tato tři řemesla se postupem času začala prolínat a v 16. a 17. století prováděli sedláři jak uzdařskou, tak řemenářskou práci. Souviselo to přirozeně s chovem a počtem koní a jejich využíváním v zemědělství, povoznictví i sportu. Do jejich pracovní náplně však nepatřily jen sedla, ale také postroje, otěže, uzdy, biče, řemeny. Zručný sedlář však dokázal zhotovit veškeré kožené výrobky od kufrů, tašek a peněženek až po originální pouzdra na všechny typy nožů, tesáků či sekerek, holstra k postraňkům, postroje, luky, řemení k vojenské a lovecké výstroji atd. Ti byli snad byli kdysi (začátkem 19. století) na brtnicku dva.\\nOd 2. poloviny 19. století se začala jednotlivá řemesla znovu diferencovat na práci sedlářskou,  řemenářskou, brašnářskou, ozdobnickou  a podobné činnosti.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 638,
+"name": "Sekerník",
+"description": "Řemeslník pracující sekerou. Specialista na stavbu srubů, trámových staveb a mlýnů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 639,
+"name": "Semenář",
+"description": "Obchodník se semeny, cibulí, mrkví a česnekem.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 640,
+"name": "Semínkář",
+"description": "Vysokým hlasem zpívávají moravští »semínkáři«. Jdou obyčejně dva, tři pospolu, v bílých, malovaným suknem ozdobených a vyšívaných pláštích s širáky na hlavách. Na zádech nesou uzle (pytle), od jejichž úvazku jdou popruhy (provazy) k rohům. Ucha takto svázaná navlékají na ramena. Uzle jejich podobají se uzlům německých turistů, jejichž pytle jsou zrovna tak uspořádány. Když vešel do vesnice nebo městečka v českém kraji, hlásí táhle dlouze: Anýz, fenykl, majoránku, ...",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 641,
+"name": "Senař",
+"description": "Obchodník kupující a prodávající seno. Někdy také kupoval trávu „nastojato“ a najímal si námezdní pracovníky na její posečení a usušení.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 642,
+"name": "Sítař",
+"description": "Řemeslník, který vyráběl sítě.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 643,
+"name": "Skalník",
+"description": "Řemeslník lámající kámen.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 644,
+"name": "Skla brusič",
+"description": "Brousil, hranil a brusem opracovával rovné sklo. Do olovnatých skleněných výrobků vybrušoval různé ornamenty a obrazce.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 645,
+"name": "Skladčí",
+"description": "Viz Šrotéř.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 646,
+"name": "Sklenář",
+"description": "Původně řemeslník vyrábějící nebo upravující sklo, nebo malující na sklo, nebo prodávající sklo, později pouze upravující ploché sklo a zasklívající okna. V Brtnici měli svůj cech do roku 1859.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 647,
+"name": "Sklínkař",
+"description": "Výrobce sklenic.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 648,
+"name": "Skleničkář",
+"description": "Viz Sklínkař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 649,
+"name": "Skleničář",
+"description": "Viz Sklínkař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 650,
+"name": "Sládek",
+"description": "Vařil pivo. Sládek přejímal obilí pro pivovar od obročného, dle potřeb jednotlivých várek. Za výrobu piva ručil celým svým majetkem.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 651,
+"name": "Sladomel",
+"description": "Ve mlýně mlel slad.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 652,
+"name": "Sladomelec",
+"description": "Viz Sladomel.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 653,
+"name": "Sladovník",
+"description": "Připravoval slad k vaření piva.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 654,
+"name": "Slaměnkář",
+"description": "Výrobce ošatek, košíků a ostatních předmětů ze slámy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 655,
+"name": "Slanař",
+"description": "Viz Solnař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 656,
+"name": "Slanec",
+"description": "Viz Solnař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 657,
+"name": "Slanečkář",
+"description": "Viz Herynkář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 658,
+"name": "Slouha",
+"description": "Obecní pastýř a posluha na radnici.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 659,
+"name": "Smažička",
+"description": "Pomocnice kuchaře ve velkých panských kuchyních, připravovala smažené pokrmy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 660,
+"name": "Smetař",
+"description": "Vyvážel smetí.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 661,
+"name": "Smetiprach",
+"description": "Mladší učeň ve mlýně.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 662,
+"name": "Smolař",
+"description": "Příbuznými kolomazníků byli smolaři, kteří  získávali  smolu  ze  stromů a pařezů a tuto pak prodávali zejména bednářům. Někdy také řemeslník specialista na vylévání sudů smolou a provádějící jejich opravy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 663,
+"name": "Smraďař",
+"description": "Viz Koželuh.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 664,
+"name": "Snovač",
+"description": "Viz Tkadlec.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 665,
+"name": "Snovař",
+"description": "Viz Tkadlec. Připravoval osnovy pro tkaní různých tkanin.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 666,
+"name": "Sochař",
+"description": "Umělec tvořící sochy a jiná umělecká prostorová díla.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 667,
+"name": "Sokolník",
+"description": "Myslivec chatyjící, pěstující a starajíc se o sokoly, které potom používá k lovu zvěře.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 668,
+"name": "Sokolář",
+"description": "Viz Sokolník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 669,
+"name": "Solař",
+"description": "Obchodník se solí.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 670,
+"name": "Solník",
+"description": "Viz Solař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 671,
+"name": "Solnař",
+"description": "Viz Solař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 672,
+"name": "Soldát",
+"description": "Námezdní žoldnéř, voják.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 673,
+"name": "Soukenář",
+"description": "Výrobce různých druhů sukna.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 674,
+"name": "Soukeník",
+"description": "Zpracovávali jen ovčí vlnu. Soukenický cech, jako jeden z prvních je doložen v Jihlavě z roku 1360. Zdejší specialitou bylo jihlavské vojenské sukno. Na tuto tradici navazuje také soukenka v Brtnici. V roce 1628 staví Hrabě Rombald z Collaltla et San Salvatore novou soukenku s osmi domky pro soukeníky. V Brtnici měli svůj cech do roku 1859. Soukeníky byli také lidově nazýváni obchodníci skupující sukno od výrobců a dále je prodávající.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 675,
+"name": "Soustružník",
+"description": "Řemeslník provádějící práce na soustruhu. Vyráběl jemné práce ze dřena, nádobky, šachové figurky, vřetena, kolovraty, knoflíky, ale také špičky, násadky a jiné zboží.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 676,
+"name": "Správce panství",
+"description": "28. června 1648 je důchodní Martin jmenován do nové funkce a stává se správcem Brtnického panství. Stará se o obnovení městské rady.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 677,
+"name": "Stárek",
+"description": "Starší tovaryš ve mlýně.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 678,
+"name": "Starosta",
+"description": "Prvním starosta byl v Brtnici zvolen v roce 1849 a pak následovali další. Největší zásluhu na rozvoji městečka měl starosta zvolený v roce 1867. Byl jím majitel realit Josef Hoffman, syn někdejšího purkmistra Františka Hoffmana. Zastával tuto volenou funkci plných 35 let až do své smrti (1903). Zemřel jako osmašedesátiletý.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 679,
+"name": "Starší čeledín",
+"description": "Příslušník panské nebo selské čeledi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 680,
+"name": "Starší děvečka",
+"description": "Příslušnice panské nebo selské čeledi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 681,
+"name": "Stavitel",
+"description": "Vysoce odborný řemeslník projektující a řídící stavby.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 682,
+"name": "Stavitel studní",
+"description": "Viz Studnař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 683,
+"name": "Stavník",
+"description": "Tesař specialista na výrobu tkalcovských stavů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 684,
+"name": "Stolař",
+"description": "Truhlář specializovaný na výrobu stolů a starší označení pro truhláře vůbec. Dříve nábytkové truhlářství. Stolaři již vyráběli kvalitní nábytek, často vyřezávané celé nábytkové sestavy. Brtnice měla v roce 859 již 9 živností stolařů a měli svůj cech.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 685,
+"name": "Stolečník",
+"description": "Stolař specializovaný na výrobu stolků. Vyráběl stolky bohatě zdobené řezbou či vykládáním.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 686,
+"name": "Stoličník",
+"description": "Truhlá specializovaný na výrobu stolic, stolic pro různé stroje a lavic na sezení.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 687,
+"name": "Stolíř",
+"description": "Podomní řemeslník, obvykle tovaryš nebo zchudlý mistr, který se nedostal do cechu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 688,
+"name": "Strhař",
+"description": "Viz Strunař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 689,
+"name": "Struhaldlník",
+"description": "Klempíř pracující s bílým plechem – pocínovaným.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 690,
+"name": "Struhař",
+"description": "Řemeslník, který řezal, strouhal a hladil prkna pro truhláře.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 691,
+"name": "Strunař",
+"description": "Nakupoval, upravoval a zužitkovával zvířecí střeva. Vyráběl struny k hudebním nástrojům, ale i na síta.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 692,
+"name": "Střelec",
+"description": "Výrobce středověkých střelných zbraní – luků, kuší a samostřílů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 693,
+"name": "Střemenář",
+"description": "Specialista Uzdáře vyrábějící třemeny.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 694,
+"name": "Střevař",
+"description": "Viz Střevař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:16",
+"updated_at": "2021-01-12 10:02:16"
+},
+{
+"id": 695,
+"name": "Střívkař",
+"description": "Jen nakupoval, upravoval a prodával dále zvířecí střeva.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 696,
+"name": "Stříbrník",
+"description": "Rozpouštěl stříbro v tavírnách a zhotovoval určení slitiny přidáváním různých kovů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 697,
+"name": "Studnař",
+"description": "Řemeslník, obvykle zedník kamene hloubící a stavící studny. Obyčejně dobrý proutkař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 698,
+"name": "Studiničář",
+"description": "Viz Studnař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 699,
+"name": "Studničník",
+"description": "Viz Studnař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 700,
+"name": "Studnikář",
+"description": "Stavitel studní, často velmi bohatě zdobených nadzemních částí včetně rumpálů na vyzvedávání vody z větší hloubky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 701,
+"name": "Stuhař",
+"description": "Tkadlec specializovaný na výrobu stuh obyčejných i z drahých nití, někdy i bohatě vyšívaných a zakončených střapci.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 702,
+"name": "Struhař",
+"description": "Viz Stolíř.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 703,
+"name": "Sukna kráječ",
+"description": "Viz Krojec suken.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 704,
+"name": "Suknokráječ",
+"description": "Viz Kroječ suken.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 705,
+"name": "Sumečník",
+"description": "Rabář specializující se na chov a prodej sumců.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 706,
+"name": "Svičník",
+"description": "Viz Svícnař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 707,
+"name": "Sviňák",
+"description": "Obchodník s vepři.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 708,
+"name": "Sviňař",
+"description": "Viz Sviňák.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 709,
+"name": "Sviňáček",
+"description": "Pomocník pastýře co pásl svině.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 710,
+"name": "Svinda",
+"description": "Viz Sviňáček.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 711,
+"name": "Svícnař",
+"description": "Mosazník specialista na výrobu svícnů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 712,
+"name": "Svícník",
+"description": "Vozkař vyrábějící svíce z vosku.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 713,
+"name": "Svíčkař",
+"description": "Viz vozkař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 714,
+"name": "Sypač soli",
+"description": "Viz Měřič soli.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 715,
+"name": "Sýrař",
+"description": "Obchodník se sýry a máslem. Někdy i výrobce sýrů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 716,
+"name": "Sýrník",
+"description": "Specialista na výrobu různých druhů sýrů a sýrových pochutin.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 717,
+"name": "Šafář",
+"description": "Řídil práce panské čeledě.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 718,
+"name": "Šafářka",
+"description": "Viz Šafář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 719,
+"name": "Ščibalník",
+"description": "Starší specialista ševce.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 720,
+"name": "Šejdíř",
+"description": "Starší tovaryš ve mlýně, který měl ve správě obilí jednotlivých pekařů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 721,
+"name": "Šenkéř",
+"description": "Viz Šenkýř.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 722,
+"name": "Šenkýř",
+"description": "Jednou ze živností, která prošla složitým vývojem, je šenkýřství (pohostinství). Šenkýřstvím se ve středověku nazývala činnost, která souvisela s čepováním piva. Dům, v němž se nacházel šenk, byl označen zavěšeným slaměným věchtem, či věncem z čerstvého chvojí. Volný výčep vína se prováděl v lisovnách, sklepech, či v průjezdech domů. Budovy, kde se víno nalévalo, byly označeny věncem z révového listí nebo slaměným křížem.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 723,
+"name": "Šermíř",
+"description": "Učitel šermu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 724,
+"name": "Šídlař",
+"description": "Specialista na výrobu šídel.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 725,
+"name": "Šiftař",
+"description": "Výrobce pažeb střelných zbraní. Často dobrý řezbář, které své výrobky velmi zdobil  řezbou nebo vykládáním.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 726,
+"name": "Šínař",
+"description": "Viz plotnář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 727,
+"name": "Šindelář",
+"description": "Dřevař, který vybíral v lesích vhodné stromy, ty porážel a řezal na špalky ze kterých potom štípáním vyráběl šindele – střešní krytinu. V pozdějších dobách",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 728,
+"name": "Prknař",
+"description": "Který vyráběl šindele řezáním.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 729,
+"name": "Šípař",
+"description": "Viz Hrotník ale spíše specialista na výrobu šípů k lukům. Šípy byly často vyráběny v různém provedení barevných per dle barev jednotlivých pánů. Hroty většinou nakupoval.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 730,
+"name": "Škrobař",
+"description": "Vyráběl škrob.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 731,
+"name": "Šlejfíř",
+"description": "Viz Brusič.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 732,
+"name": "Šlejféř",
+"description": "Viz Brusič.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 733,
+"name": "Šlejféř břitev",
+"description": "Brusič břitev a nůžek.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 734,
+"name": "Šleféř kovářský",
+"description": "Většinou zaměstnanec kováře zabývající se broušením kovářských výrobků. Ať již povrchově obrušoval okuje a dokončoval práce, nebo brousil ostří nástrojů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 735,
+"name": "Šlejféř nožířský",
+"description": "Brusič nožů. Často potulný brusič.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 736,
+"name": "Šlojířník",
+"description": "Tkal a vyšíval závoje, třepení, ožidlí ke krku a podobně.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 737,
+"name": "Šmelcíř",
+"description": "Řemeslník připravující skelné emaily a zdobící s nimi obvykle díla zlatníků.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 738,
+"name": "Šmelcník",
+"description": "Viz Šmelcíř.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 739,
+"name": "Šmejdíř",
+"description": "Obchodník s drobnými měděnými a mosaznými předměty – knoflíky, přezkami, pásky, lacinými šperky a titěrnostmi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 740,
+"name": "Šmuklíř",
+"description": "Kloboučník specializující se na ozdobné pokrývky hlavy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 741,
+"name": "Šnorař",
+"description": "Viz Šňůrař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 742,
+"name": "Šňůrař",
+"description": "Výrobce šňůr.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 743,
+"name": "Šňůředlník",
+"description": "Viz Šňůrař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 744,
+"name": "Šorcárka",
+"description": "Švadlena šijící zástěry – šnorcky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 745,
+"name": "Špendlíkář",
+"description": "Jehlář specializující se na výrobu obyčejných ale i často velmi zdobených špendlíků a jehlic, často i prodávající své zboží a také obchodník prodávající jehle, jehlice, špendlíky a podobné zboží. Někdy prodával i nitě a bavlnky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 746,
+"name": "Špulířník",
+"description": "Výrobce nebozezů – špulířů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 747,
+"name": "Šrotéř",
+"description": "Vozil a spouštěl sudy do sklepů na líhách.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 748,
+"name": "Šrotéř pivní",
+"description": "Rozvážel pouze pivo, povětšinou zaměstnanec pivovaru.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 749,
+"name": "Šrotéř vinný",
+"description": "Rozvážel víno.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 750,
+"name": "Štelmachr",
+"description": "Viz Nápravník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 751,
+"name": "Štelmař",
+"description": "Viz Nápravník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 752,
+"name": "Štěpař",
+"description": "Zahradník zabývající se pěstováním ovoce peckového i jádrového.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 753,
+"name": "Štětkař",
+"description": "Výrovce štětek ze zvířecích štětin.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 754,
+"name": "Štítař",
+"description": "Výrobce a malíř turnajových štítů, zbraní, sedel, ozdobných postrojů a podobně.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 755,
+"name": "Štítník",
+"description": "Výrobce a malíř vývěsných štítů pro obchodníky a řemelníky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 756,
+"name": "Štukatér",
+"description": "Tesák kamene obrábějící mramor.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 757,
+"name": "Štumfař",
+"description": "Koželuh, který nesměl kůže pro lesk mazat tuky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 758,
+"name": "Šumař",
+"description": "Podomní hudec.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 759,
+"name": "Švadlena",
+"description": "Námezdní pracovnice, ale ne v cechu, která šila košile, fěrtoch, zástěry, rukávce, spodní kalhoty a ostatní bílé prádlo.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 760,
+"name": "Švec",
+"description": "Původně sešívač kožených výrobků, později výrobce obuvi. Ševci měli svůj samostatný cech.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 761,
+"name": "Tálník",
+"description": "Nádeník u pilaře na pile.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 762,
+"name": "Tancéř",
+"description": "Tanečník. Většinou člen kočovné společnosti.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 763,
+"name": "Tandléř",
+"description": "Obchodník s použitým zbožím.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 764,
+"name": "Tancmajst",
+"description": "Viz Taneční mistr.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 765,
+"name": "Taneční mistr",
+"description": "Učitel tance.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 766,
+"name": "Tapecírkař",
+"description": "Viz Čalouník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 767,
+"name": "Taškář",
+"description": "Specialista Tobolečník vyrábějící různé, často i velmi specielní tašky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 768,
+"name": "Tašvičník",
+"description": "Viz Taškář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 769,
+"name": "Tavič",
+"description": "Tavením rud získával surový kov.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 770,
+"name": "Tavíř",
+"description": "Specialista na tavení stříbra z rudy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 771,
+"name": "Tenetář",
+"description": "Specialista na vinutí „tenat“.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 772,
+"name": "Tesák kamene",
+"description": "Upravoval kámen pro potřeby staveb a dláždění. ˇAsem toto řemeslo se splynulo s kameníky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 773,
+"name": "Tesař",
+"description": "Nejstarší dřevařské řemeslo. V době, kdy byla osídlena Brtnice, již samozřejmě existovali specializovaní řemeslníci, z nichž je třeba na prvním místě uvést tesaře, kteří své mistrovství dokazovali při budování hradů, dvorců, kostelíků, mostů, příbytků, ale i při zhotovování hrubého nábytku. K budování různých konstrukcí tesaři používali neopracovaných kmenů (kuláčů) nebo kmenů otesaných (trámů). Na zastřešování a zastropování objektů, k podlahám, k bednění a k hotovení tesařského nábytku používali štípaných fošen, desek, šindelů a dřenic. K nástrojům, které používali, patřily sekery (hlavatka, širočina, pobíječka, dlabatka, teslice, křížovka), poříz rovný a křivý, různě dimenzovaná dláta, palička, různé nebozezy, různé druhy pil, hoblíky, úhelník, měřidlo, olovnice, páka, kladka, kružidlo, skoby atd. Je víc než pravděpodobné, že tesaři byli v naší obci již od jejího samého založení a postupem času budovali dřevěná stavení. Vyráběli také například i vojenské praky. Postupně, když se začaly domy stavět z cihel, tesařů ubývalo.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 774,
+"name": "Tiskař",
+"description": "Původně potiskoval pouze plátno a jiné tkaniny. Později označení pouze pro tiskaře papíru.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 775,
+"name": "Tkadlec",
+"description": "Řemeslník vyrábějící tkaniny na tkalcovském stavu. Tkalci zpracovávali ovčí vlnu a později i jiné příze. V roce 1882 měla Brtnice 25 živností tkalců. Ti vyráběli ponejvíce cajk i když zpracovávali i ostatní přízi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 776,
+"name": "Tkadlec vlny",
+"description": "Obvykle tovaryš u soukeníka, ale i samostatný řemeslník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 777,
+"name": "Tkaničkář",
+"description": "Výrobce tkanic, prýmků a podobného zboží.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 778,
+"name": "Tkaničník",
+"description": "Viz Tkaničkář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 779,
+"name": "Tlumočník",
+"description": "Výrobce tlumoků na skládání šatů, menších tlumoků k nošení, případně kožených pouzder na nošení různých zbraní. Oproti Měšecníkovi vyráběl hrubší zboží.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:17",
+"updated_at": "2021-01-12 10:02:17"
+},
+{
+"id": 780,
+"name": "Tobolář",
+"description": "Viz Tlumočník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 781,
+"name": "Tobolečník",
+"description": "Viz Tlumočník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 782,
+"name": "Toufař",
+"description": "Džbánkář. Také lidoý název pro Novokřtěnce.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 783,
+"name": "Toulař",
+"description": "Specialista Tobolečníka vyrábějící toulce na šípy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 784,
+"name": "Topič",
+"description": "Nádeník najímaný na topení v domech často mající na starost přípravu dřeva na topení.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 785,
+"name": "Tovaryš",
+"description": "Námezdní pracovník najímaný misterm, pracovník v řemeslné činnost, který po vyučení složil tovaryšskou zkoušku.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 786,
+"name": "Trákař",
+"description": "Nosil nebo převážel zboží (nákupy) zakoupené na trhu do vozu nebo domu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 787,
+"name": "Trakářník",
+"description": "Viz kolečník. Specialista na výrobu trakařů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 788,
+"name": "Trepkář",
+"description": "Obuvník specialista na dřevěné a kožené podrážky obuvi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 789,
+"name": "Trubač",
+"description": "Městský nebo dvorní hráč na trubku. Také Masazník specialista na výrobu žesťových nástrojů – trub, trubek, pozounů apod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 790,
+"name": "Trubák",
+"description": "Viz Rourník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 791,
+"name": "Trubař",
+"description": "Viz Rourník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 792,
+"name": "Truhličník",
+"description": "Truhlář specialista na výrobu malých truhliček na mince a šperky a pod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 793,
+"name": "Truhlář",
+"description": "Řemeslník pracující zdokonalenými a specielními nástroji. Truhláři se od tesařů odloučili ve 12. století. Předměty truhlářské výroby byly původně zhotoveny ze štípaných dřevěných dílců nebo trámců. Ve 13. století byli více nazýváni jako stolaři patrně z toho důvodu, že jejich hlavní prací bylo hotovení stolů. I když ve městech postupně docházelo ke specializaci, v městečkách i na vesnicích dále truhláři vyráběli jak truhly, tak i židle, lavice či stoly, a později skříně a almary. Nejeden truhlář byl zároveň řezbářem či soustružníkem, vždyť stoupal nárok na nábytek. Někteří řemeslníci tohoto oboru zvládali i výrobu hudebních nástrojů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 794,
+"name": "Truhlář kočárnický",
+"description": "V kočárnickém truhlářství se  vyrábějící kostry pro kočáry, saně, bryčky a pod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 795,
+"name": "Truhlář nábytkový",
+"description": "Nábytkoví truhláři, kteří se oddělili od truhlářů, vyráběli židle, stoly, skříně, postele, lavice atd. Později se toto řemeslo začalo nazývat stolařství.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 796,
+"name": "Truhlář stavební",
+"description": "Truhlářské řemeslo postupně vyspělo do podoby stavebního truhlářství, které se zabývalo zhotovování oken, dveří, zárubní, podlah a obkládáním stěn a stropů, a truhlářství nábytkového, vyrábějícího stoly, židle, skříně, postele a pod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 797,
+"name": "Tříslník",
+"description": "Řemeslník vyrábějící z částí některých rostlin, zejména z jejich kůry (smrkové, dubové, ...), přípravky sloužící k činění kůží – třísla.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 798,
+"name": "Túlař",
+"description": "Viz Toulař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 799,
+"name": "Tunchéř",
+"description": "Zedník specializovaný na Omítání zdí – tuchnování.Tvořidlník – Soustružník specializovaný na výrobu dřevěných tvořídek – pouzder.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 800,
+"name": "Tychnéř",
+"description": "Viz Dychnéř.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 801,
+"name": "Učedník",
+"description": "Ten, kdo se učí nějakému řemeslu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 802,
+"name": "Učedlník",
+"description": "Ten, kdo se učí nějakému umění.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 803,
+"name": "Učitel",
+"description": "Viz Kantor.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 804,
+"name": "Udidlíř",
+"description": "Viz Uzdář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 805,
+"name": "Uhlíř",
+"description": "Dřevěné uhlí pálili v okolních lesích v milířích uhlíři, kteří je prodávali kovářům, zámečníkům, nožířům, mečířům, kotlářům, zvonařům, zlatníkům, ale také knihařům a jiným řemeslníkům. Byl to také Obchodník s dřevěným uhlím.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 806,
+"name": "Underláčník",
+"description": "Úředník, který řídil trh se slanečky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 807,
+"name": "Usenník",
+"description": "Koželuh specializovaný na krájení usní a prodávající je pasířům a pod.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 808,
+"name": "Ustrakář",
+"description": "Viz Nosič.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 809,
+"name": "Uzenář",
+"description": "Řezník specializovaný na slaninu a uzené maso. Brtnice měla v roce 1859 dva samostatné živnostníky, kteří se zabývali pouze činností uzenářskou.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 810,
+"name": "Uzeník",
+"description": "Viz Uzenář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 811,
+"name": "Uzenkář",
+"description": "Řezník vyrábějící pouze uzenky – salámy a párky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 812,
+"name": "Uzdář",
+"description": "Řemenář specializovaný na výrobu koňských postrojů, popruhů, tašek a podobných předmětů ke koním.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 813,
+"name": "Váčkář",
+"description": "Viz Měšečník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 814,
+"name": "Vaječník",
+"description": "Obchodník s vejci.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 815,
+"name": "Vajšník",
+"description": "Viz Vaječník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 816,
+"name": "Váleč",
+"description": "Viz Valchář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 817,
+"name": "Valchář ",
+"description": "Řemeslník upravující sukno na valše.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 818,
+"name": "Valič dřev",
+"description": "Připravoval a přibližoval dřevo pro plavení nebo svoz.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 819,
+"name": "Vápeník",
+"description": "Řemeslník připravující vápno mletím vápence a prodejce vápna. Nejznámější živností našich předků bylo bezesporu vápenictví. V okolí se zachovalo známé rčení \"řve jak vápeník\" a to proto, že když vápeníci prodávali své zboží po vsích i městech, volali \"vápnóó, vápnóó!\", až z toho někdy ochraptěli. Toto označení v sobě skrývalo soubor profesí, počínaje těžbou vápence, přes pálení, až po jeho prodej. Vápenictví má  kořeny  již  ve  středověku, kdy  se  na  brtnickém katastru  těžil vápenec, který se pálil v jednoduchých pecích, po kterých nám do dnešní doby téměř nic nezbylo.\\nDle ústního podání stávaly \"pod Pazderňó\" vápenice, však stále dosti primitivní. Vápenice se musela nejdříve naložit vápencem, uzavřít \"kloboukem\" z mazlavé hlíny a škváry, uvést do žáru a v tomto stavu průběžně udržovat. Nakonec se pec nechala vyhasnout a hotové vápno se rozváželo na vozech široko daleko. Kromě hotového vápna zpracovávali naši předkové též odpadový kámen, který v zimním období tloukli na jednotlivých usedlostech, a který prodávali jako štěrk na opravu a budování silnic. Do cukrovarů vozili \"saturační vápenec\". Po první světové válce bylo postupně upuštěno od této pracné a nákladné výroby vápna a malé vápenice byly postupně odstraňovány nebo ponechány svému osudu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 820,
+"name": "Varhanář",
+"description": "Specializovaný řemeslník, výrobce varhan.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 821,
+"name": "Varhaník",
+"description": "Hráč na varhany.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 822,
+"name": "Vážník",
+"description": "Řemeslník vyrábějící z kovů a dřeva různé druhy vah.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 823,
+"name": "Vážný",
+"description": "Tržní úředník mající za kontrolu používané váhy a správnost naváženého tovaru.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 824,
+"name": "Včelař",
+"description": "Pěstoval včely, vyráběl med a vosk.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 825,
+"name": "Včelař rolnický",
+"description": "Od 18. století se začíná postupně zavádět včelařství racionální, a to zejména díky včelařským patentům Marie Terezie.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 826,
+"name": "Věnečník ",
+"description": "Zhotovoval různé ozdoby pro ženské hlavy.\\nVil a prodával věnce ze živých i umělých květin které i sám vyráběl.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 827,
+"name": "Verglař",
+"description": "Velmi rozšířenou živností po roce 1890 živíce obyvatelstvo ve městečku bylo „verglařství“ – kolovrátkářství - rekrutujících se z veteránského spolku se sídlem v Brtnici. Jeho členové byli odměňováni licencemi umožňující jim tento „lepší“ způsob obživy vykonávat všude mimo královská města.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 828,
+"name": "Vetešník",
+"description": "Řemeslník opravující části oděvů nebo obuv.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 829,
+"name": "Vinař",
+"description": "Dělník pracující při pěstování vína.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 830,
+"name": "Vinopalník",
+"description": "Vyráběl líh a kořalku ze zkaženého vína pomocí kvasnic, droždí, ze sladů kvašených a zapařených.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 831,
+"name": "Vín nákladník",
+"description": "Prodavač vína. Je víc než pravděpodobné, že si naši prapředkové pochutnávali jak na pivě tak i kořalce. I když  víno nebylo běžné na občanském stole, bylo zajisté součástí stolů panských a měšťanských. Vždyť zbytky vinic ze středověku byly nalezeny v blízkém okolí. Zda i brtničtí obyvatelé byli vinaři, o tom se můžeme jen dohadovat. Zajisté byli ale jeho prodavači a konzumenti.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 832,
+"name": "Vlasař ",
+"description": "Obchodník s vlasy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 833,
+"name": "Vlanař",
+"description": "Dodanou nebo skoupenou vlnu čistil, tepal a upravoval v přízi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 834,
+"name": "Vlnotepec",
+"description": "Viz Vlnař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 835,
+"name": "Vodák",
+"description": "Vozataj dovážející vhodnou vodu do pivovaru.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 836,
+"name": "Vodovoz",
+"description": "Viz Vodák.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 837,
+"name": "Vochlař",
+"description": "Kovář specialista na výrobu „vochlí“.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 838,
+"name": "Vorař",
+"description": "Specialista na svážení klád vodní cestou. Uměl zhotovit z klád vor a ten plavit po řece.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 839,
+"name": "Voskař",
+"description": "Obchodník skupující, případně i prodávající vosk. Někdy i výrobce „voskovic“ – voskových svíček. Vždyť svíčka byla prastarým zdrojem světla. Na brtnicku si v 19 století každý kdo pěstoval včely vyráběl i svíce pro vlastní použití. Původní technologie spočívala v jednoduchém hnětení změklého včelího vosku a teprve později došlo k oblévání knotu roztaveným voskem. Staří voskaři vedle obyčejných, kostelních, zdobených a lucernových vyráběli i tzv. obětiny. Byly ve tvaru zvířátek, lidských hlav či srdíček. Prodávaly se zejména o poutích jako obětní vzpomínka na zesnulé.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 840,
+"name": "Voštinář",
+"description": "Překupník skupující od včelařů voštiny (zejména od divokých včel) a prodávající je Voskaři.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 841,
+"name": "Vozák",
+"description": "Řemeslník vyrábějící různé dřevěné vozy. Kola obvykle dodával kolář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 842,
+"name": "Vozka",
+"description": "Vozka je osoba řídící povoz tažený koňmi nebo jinými hospodářskými zvířaty. Vozka může buď sedět na taženém vozidle na kozlíku, anebo jít podél něj. V         zimních podmínkách se nemusí jednat vždy jen o kolové vozidlo, zvířata mohou také táhnout například velké saně. Vozka řídící koňský povoz se též nazývá kočí. Kočí, jenž řídil těžký nákladní povoz, byl označován slovem forman.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 843,
+"name": "Vrchcábník",
+"description": "Kostečník specializovaný na výrobu šachových figurek. Také to byl Vrhač vrchcábů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 844,
+"name": "Vrkočnice",
+"description": "Obchodnice s cibulí a česnekem prodávaných po pletencích – vrkočích a lidové označení Obchodnice s hruškami.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 845,
+"name": "Vřetenář",
+"description": "soustružník specializovaný na výrobu vřeten ke kolovratům.    ",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 846,
+"name": "Vyšívač krumplíř",
+"description": "Zapomenutým řemeslem, které souviselo s výrobou oděvů, bylo vyšívání a krumplování. Ve městech působily cechy těchto řemeslníků, které se zabývaly krumplováním a vyšíváním šlechtických, měšťanských i kněžských oděvů. U nás se touto činností zabývaly podomácku ženy, jenž vyšívaly kroje, které byly svátečním oděvem na vysočině až do 19. století.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 847,
+"name": "Výčepník",
+"description": "Viz Šenkýř.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 848,
+"name": "Výtoník",
+"description": "Původně mýtný, který vybíral mýto (vybíral naturální daň) při plavení dříví. Později mýtný obecně.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 849,
+"name": "Zábojník",
+"description": "Viz Olejník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 850,
+"name": "Zahradník",
+"description": "Pěstoval zeleninu a ovoce, na rozdíl od zemědělce kromě užitkových plodin i rostliny okrasné. Dělil se obvykle na zahradníky specialisty (Zelník, Dýňař, ...) a Štěpař.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 851,
+"name": "Zámecký správce",
+"description": "Panský úředník s právem bydlet s celou rodinou na zámku. Za stravu a byt nemusel platit. Zámecký správce – měl na starosti celý zámek, vedl zámecké inventáře a sklepní účty.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 852,
+"name": "Zámkař",
+"description": "Zámkaři jsou specialisté na výrobu a opravy zámků a klíčů se postupně oddělili od zámečníků",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 853,
+"name": "Zámečník",
+"description": "Ke kovářství patřilo od středověku i zámečnictví. I když se tyto profese původně vzájemně prolínaly, postupem času se oddělily, později i na venkově. Zatímco kovář železo žhavil, kul, sekal a probíjel, zámečník za studena železo řezal, piloval a vrtal. Mezi zámečnickou produkci můžeme kromě zámků řadit kliky, dveřní závěsy, klepadla, nábytková kování na skříně, mříže, kostelní kříže a další výrobky, jejichž sortiment se postupně rozšiřoval a časem se od nich oddělili zámkaři, specialisté na výrobu a opravy zámků a klíčů. Brtnice měla v roce 1859 již 4 zámečnické živnostníky.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 854,
+"name": "Zámišník",
+"description": "Řemeslník specialista Jirchář, který vydělávající kůže mechanicky tukem a barvící je na žluto.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 855,
+"name": "Zbrojíř",
+"description": "Výrobce a údržbář výzbroje a zbraní.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 856,
+"name": "Zaříkávač",
+"description": "Zaříkávači v té době minulé vyhledávali lidi pověrečné, jichž bývalo dost. Zaříkávali nejen bolesti a neduhy lidské i u dobytka, ale hlavně pomáhali proti »uškození«, když toliž někdo »užitek od dobytka bral« (t. j. mléko odčaroval, tak že dobytek nedojil). Tu zaříkávači za dobré zaplacení škůdce vypátrali a potrestali. Bláhovější snad ještě byli lidé, kteří uvěřili nabídkám zaříkávačů slibujícím, že jim pomohou najíti poklad, nebo že budou »citovati« zlého ducha, který jim pak peněz dle poručení přinese.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 857,
+"name": "Zedník",
+"description": "Stavební řemeslník stavící zdi.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 858,
+"name": "Zelinář",
+"description": "Pěstitel a prodavač zeleniny.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 859,
+"name": "Zelník",
+"description": "Zahradník specializovaný na zelí a ostatní hlávkovou zeleninu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 860,
+"name": "Zlatič",
+"description": "Viz Pozlacovač.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 861,
+"name": "Zlatník",
+"description": "Řemeslník vyrábějící umělecké předměty ze zlata a stříbra, někdy ryl i pečetidla.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 862,
+"name": "Zlatolijec",
+"description": "Rozpouštěl zlato v tavírnách a zhotovoval určené slitiny.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 863,
+"name": "Zlatopřádka",
+"description": "Vzácná specializace Šlojířnice vetkávající do ozdob zlaté nitě.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 864,
+"name": "Zlatotepec",
+"description": "Řemeslník tepající zlato a stříbro na tenké lístky a prodávající je Pozlaťovači i sám pozlaťující.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:18",
+"updated_at": "2021-01-12 10:02:18"
+},
+{
+"id": 865,
+"name": "Zpěvák",
+"description": "Služebník najímaný ke zpěvu.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+},
+{
+"id": 866,
+"name": "Zrcadelník",
+"description": "Řemeslník specializovaný na výrobu zrcaled, původně kovových, později skleněných",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+},
+{
+"id": 867,
+"name": "Zuvač",
+"description": "Lázeňský pomocník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+},
+{
+"id": 868,
+"name": "Zuvadlník",
+"description": "Viz Zuvač.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+},
+{
+"id": 869,
+"name": "Zvěřinář",
+"description": "Obchodník se zvěřinou.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+},
+{
+"id": 870,
+"name": "Zvířetník",
+"description": "Viz Zvěřinář.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+},
+{
+"id": 871,
+"name": "Zvonař",
+"description": "Řemeslník umělec specializující se na výrobu zvonů.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+},
+{
+"id": 872,
+"name": "Zvonečník",
+"description": "Řemeslník specialista na výrobu malých litých zvonků.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+},
+{
+"id": 873,
+"name": "Zvoník",
+"description": "Kostelník mající na starosti všechny druhy zvonění na kostelní zvony.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+},
+{
+"id": 874,
+"name": "Zvonkař",
+"description": "Viz Zvonečník.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+},
+{
+"id": 875,
+"name": "Žebrák",
+"description": "Chudák který žebral.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+},
+{
+"id": 876,
+"name": "Železník",
+"description": "Obchodník se železem.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+},
+{
+"id": 877,
+"name": "Ženská čeleď",
+"description": "Nádenice, služebné najímané obvykle na půl roku.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+},
+{
+"id": 878,
+"name": "Žernovník",
+"description": "Tesák kamene specializovaný na hotovení žernovů pro mlýny.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+},
+{
+"id": 879,
+"name": "Žertéř",
+"description": "Potulný obstaravatel zábavy.",
+"imageUrl": null,
+"created_at": "2021-01-12 10:02:19",
+"updated_at": "2021-01-12 10:02:19"
+}
+]

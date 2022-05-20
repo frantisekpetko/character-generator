@@ -1,0 +1,17 @@
+{
+  "sector": "dům pěstování plodin a sedláků",
+  "profession": [
+        {
+          "name": "cibulář",
+          "description": "Zahradník specializovaný na pěstování cibule"
+        },
+        {
+          "name": "dýnař",
+          "description": "Zahradník specialista na pěstování dýní a prodej sušených dýňových semen a plodů."
+        },
+        {
+          "name": "chmelař",
+          "description": "Obchodník i pěstitel chmele"
+        }
+   ]
+}

@@ -1,0 +1,94 @@
+[
+    {
+        "fileid": "domestic-goods",
+        "name": "dům domovního zboží"
+    },
+    {
+        "fileid": "workers",
+        "name": "dům pracovníků"
+    },
+    {
+        "fileid": "alchymists",
+        "name": "dům alchymistů"
+    },
+    {
+        "fileid": "art",
+        "name": "dům umění"
+    },
+    {
+        "fileid": "buildings-and-maintance",
+        "name": "dům staveb a údržby"
+    },
+    {
+        "fileid": "clothes-and-goods-from-skin",
+        "name": "dům oblečení a zboží z kůže"
+    },
+    {
+        "fileid": "cultivation-of-crops-and-farmers",
+        "name": "dům pěstování plodin a sedláků"
+    },
+    {
+        "fileid": "dubious-occupations",
+        "name": "dům pochybných povolání"
+    },
+    {
+        "fileid": "faith",
+        "name": "dům víry"
+    },
+    {
+        "fileid": "healers-or-infirmaries",
+        "name": "dům léčitelů nebo lazaret"
+    },
+    {
+        "fileid": "management-and-administration-functions",
+        "name": "dům řídících a správcovských funkcích"
+    },
+    {
+        "fileid": "manufacture-of-household-equipment",
+        "name": "dům výroby vybavení pro domácnost"
+    },
+    {
+        "fileid": "official-services",
+        "name": "dům úředních služeb"
+    },
+    {
+        "fileid": "production-of-assortment-and-smaller-goods-tools",
+        "name": "dům výroby sortimentu a menšího zboží, nástrojů"
+    },
+    {
+        "fileid": "production-of-fresh-and-durable-food",
+        "name": "dům výroby čerstvých a trvanlivých potravin"
+    },
+    {
+        "fileid": "safety",
+        "name": "dům bezpečnosti obyvatelstva"
+    },
+    {
+        "fileid": "services",
+        "name": "dům služeb"
+    },
+    {
+        "fileid": "specialist-with-health-and-spa-workers",
+        "name": "dům služeb zdraví a lázně"
+    },
+    {
+        "fileid": "specialist-with-steel-and-steel-makers",
+        "name": "dům specialistů práce se dřevem"
+    },
+    {
+        "fileid": "spice-jar-and-midwife",
+        "name": "dům kořenárky a porodní báby"
+    },
+    {
+        "fileid": "traders-and-traffickers",
+        "name": "dům obchodníků a překupníků"
+    },
+    {
+        "fileid": "use-common-and-precious-stones",
+        "name": "dům využití běžného a drahého kamení"
+    },
+    {
+        "fileid": "use-of-fauna-and-flora",
+        "name": "dům využití fauny a flóry"
+    }
+]

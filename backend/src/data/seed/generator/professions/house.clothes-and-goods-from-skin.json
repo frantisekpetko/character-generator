@@ -1,0 +1,117 @@
+{
+  "sector": "dům oblečení a zboží z kůže",
+  "profession": [
+        {
+          "name": "atlasu tlačitel",
+          "description": "Tlačil potisk na textil"
+        },
+        {
+          "name": "barchaník",
+          "description": "Kadlec snovací len s bavlnou (Cech barchaníků a cíchařů), barchent (jméno tkaniny), tento materiál se používal hodně na cíchy"
+        },
+        {
+          "name": "barvíř",
+          "description": "Používal minerálních, živočišných, rostlinných látek k barvení kůže, tkanin a dalších materiálů"
+        },
+        {
+          "name": "barvíř koží",
+          "description": "Specializoval se na kůže"
+        },
+        {
+          "name": "barvíř koží pruských",
+          "description": "Specializoval se na dovážené kůže"
+        },
+        {
+          "name": "barvíř pláten",
+          "description": "Barvil sukna (sukno nejčastěji používalo na kalhoty, sukně, saka a pláště uniforem pro armádu, policii, železničáře, lesníky a jiná povolání )"
+        },
+        {
+          "name": "barvíř tkanin",
+          "description": ""
+        },
+        {
+          "name": "biretník",
+          "description": "Kloboučník specializující se na pokrývky hlavy pro kněží, žáky, bakaláře, mistry a doktory"
+        },
+        {
+          "name": "bělič pláten",
+          "description": "Bělil utkané plátno"
+        },
+        {
+          "name": "brašnář",
+          "description": "Novější označení pro taškáře – výrobce tašek z kůží"
+        },
+        {
+          "name": "cajkář, caykař",
+          "description": "Tkadlec vyrábějící hrubou režnou tkaninu – cayk (pevná bavlněná látka)"
+        },
+        {
+          "name": "cíchař",
+          "description": "Specialista tkadlec zhotovující tkaniny k výrobě ložního prádla. Většinou dle objednávky dodával prádlo i ušité dle přání."
+        },
+        {
+          "name": "cuckař, koudelník",
+          "description": "Řemeslník spřádající z koudele hrubou přízi. (Koudel – lněná nebo konopná kratší, hubší a pazdeřím znečištěná vlákna.) => materiál pro speciaslisty vyrábějící oblečení etc."
+        },
+        {
+          "name": "cvistář, soukeník",
+          "description": "Zpracovávali jen ovčí vlnu. Skupující sukno od výrobců a dále je prodávající"
+        },
+        {
+          "name": "čepčář",
+          "description": "Řemeslník specialista vyrábějící obvykle čepce pro ženy"
+        },
+        {
+          "name": "čepičkář",
+          "description": "Specialista na výrobu pánských čepic a dámských nevyšívaných čepců (které se potom vyšívaly). U tohoto řemesla docházelo většinou ke spojení s živností nikoliv kloboučnickou, ale kožešnickou "
+        },
+        {
+          "name": "černokožešník",
+          "description": "Specializovaný kožešník na černě barvené kožešinové oblečení"
+        },
+        {
+          "name": "červenokožešník",
+          "description": "Specializovaný kožešník na červeně barvené kožešinové oblečeníČesač vlny"
+        },
+        {
+          "name": "česač vlny",
+          "description": "Povrchově upravoval střižní vlnu pro předení"
+        },
+        {
+          "name": "dešťkář",
+          "description": "Výrobce deštěk pro obuvníky. Dešťky – kopyta a déšťky do podrážek bot"
+        },
+        {
+          "name": "deškář, kopytář",
+          "description": "výrobce ševcovských kopyt"
+        },
+        {
+          "name": "deštníkář",
+          "description": "Výrobce deštníků a slunečníků."
+        },
+        {
+          "name": "drástník",
+          "description": "Specialista Tkaničník specializovaný na drástní – střapců, ozdoby"
+        },
+        {
+          "name": "dratevník",
+          "description": "Výrobce konopných dratví pro ševce. Dratve - smolená obuvnická nit z konopí"
+        },
+        {
+          "name": "dřevákář",
+          "description": "Truhlář specialista zabývající se výrobou dřeváků a dřevěných podrážek pro nazouváky (ty se potom jen potáhly na špici kůží). "
+        },
+        {
+          "name": "flekýř",
+          "description": "Švec opravář někdy také označení pro vetešníka"
+        },
+        {
+          "name": "hacník",
+          "description": "Specialista krejčí zabývající se výrobou kalhot"
+        },
+        {
+          "name": "hedvábník",
+          "description": "Specialista tkadlec zabývající se tkaním hedvábí. Někdy byl talé hedvábníkem nazýván krumpéř používající k vyšívání hedvábí"
+        }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "sector": "dům pracovníků s kovem a kovovýrobcům",
+  "profession": [
+        {
+          "name": "brníř",
+          "description": "Výrobce drátěných košil a brnění. Někdy i výrobce i pancířů"
+        },
+        {
+          "name": "brusiř, mlynář",
+          "description": "Brousil různé železné nástroje na točitých kamenných brusech"
+        },
+        {
+          "name": "cankář",
+          "description": "Specialista kovář vyrábějící ploché kovové pruhy- cánky, které sloužily k dalšímu zpracování. (Cány železné a ocelové pro Bednáře a Koláře.), nebo se z nich v mincovnách razily mince (Cány z drahých kovů nebo mědi a slitin)"
+        },
+        {
+          "name": "caykšmid",
+          "description": "Řemeslník který vyráběl z mědi a jiných barevných kovů drobné výrobky jako spony apod."
+        },
+        {
+          "name": "cínař, cíník",
+          "description": "Řemeslník zhotovující litím a tepáním užitné předměty z cínu. Nachází využití při výrobě slitin (bronz, ložiskový kov), v potravinářství při dlouhodobém uchovávání potravin (pocínování konzerv, cínové fólie) a při výrobě uměleckých předmětů"
+        },
+        {
+          "name": "cirklář",
+          "description": "Specialista mečník zhotovující různé druhy kružidel a obkročných měřidel pro dřevaře, lesníky apod"
+        },
+        {
+          "name": "břitvař",
+          "description": "Nožíř specializovaný na výrobu břitev na holení"
+        },
+        {
+          "name": "cizelér",
+          "description": "Řemeslník dotvářející povrch kovových předmětů a jemně opracovávající kovové odlitky uměleckých děl. Kovy nejen brousil a leštil, ale často doplňoval i rytinou."
+        },
+        {
+          "name": "cuprifabr, kovář mědi",
+          "description": "Specialista na kování mědi"
+        },
+        {
+          "name": "cvočkař, hřebičník, hřebač",
+          "description": "Kovář specializující se na výrobu hřebíků, hřebů, skob, cvoků a cvoček etc"
+        },
+        {
+          "name": "čepelník",
+          "description": "Specialista nožíř na výrobu čepelí zbraní"
+        },
+        {
+          "name": "drátař",
+          "description": "Podomní obchodník zabývající se opravami drátováním a výrobou drobných předmětů z drátků"
+        },
+        {
+          "name": "drátěník",
+          "description": "Zabývali se podomně drátováním hrnců"
+        },
+        {
+          "name": "drátník",
+          "description": "Kovář specializovaný na výrobu drátů"
+        },
+        {
+          "name": "flašnér",
+          "description": "Specialista kovář zabývající se výrobou flaší a nádob někdy i litinových. (Plechové nádoby vyráběl specialista klempíř.)"
+        },
+        {
+          "name": "hamerník",
+          "description": "Řemeslník vyrábějící ze surového železa svářkatou ocel vytloukáním na hamrech obvykle s kolem na spodní vodu, které pohání kladivo dopadající na kovadlinu"
+        },
+        {
+          "name": "helméř",
+          "description": "Specialista klempíř zabývající se výrobou přileb a železných klobouků. "
+        },
+        {
+          "name": "herynkář",
+          "description": "Specialista zámečník vyrábějící hevery a pozdvihovadla "
+        },
+        {
+          "name": "hodinář",
+          "description": "Zámečník specializovaný na výrobu hodinových strojků a příslušenství velkých hodin.\\nHodinář hodin malých – hodinář vyrábějící takzvané malé hodiny (stolní a pod.), v Čechách se objevuje po roce 1500, po vynálezu hodinového pera."
+        },
+        {
+          "name": "hodinář hodin velkých",
+          "description": "Hodinář specializovaný na věžní hodiny pro kostely, radnice a podobně."
+        },
+        {
+          "name": "horogolista, orlojník",
+          "description": "Vzácný specialista hodináře, využívající při výrobě hodinových mechanizmů znalosti astronomie"
+        },
+        {
+          "name": "hřebač, hřebičník",
+          "description": "Kovář specializující se na výrobu hřebíků, hřebů, skob a pod."
+        },
+        {
+          "name": "hutník",
+          "description": "Dělník v huti"
+        },
+        {
+          "name": "hutník mistr",
+          "description": "Řemeslník řídící navážku a tavbu železa a jiných kovů v huti"
+        }
+  ]
+}

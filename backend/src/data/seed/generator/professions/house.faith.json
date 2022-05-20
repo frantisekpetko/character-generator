@@ -1,0 +1,9 @@
+{
+  "sector": "dům víry",
+  "profession": [
+        {
+          "name": "farář",
+          "description": "Byl od středověku nejen osobou, která se starala o náboženský život obyvatel, ale byl i nositelem univerzální křesťanské kultury. Farní kostel nebyl jen místem boží služby, ale i společenským centrem obce, kde se řešily i věci obecní a světské. I v pozdějších dobách se faráři podíleli na kulturním, společenském a sociálním vývoji obce, stávali se nositeli vzdělanosti i národními buditeli. Farář (z lat. parrochus) je v křesťanských církvích osoba, která má na starosti vedení farnosti a farních bohoslužeb. Jak katolická církev, tak protestantské církve přesně vymezují práva a povinnosti faráře prostřednictvím vlastního církevního práva. V evangelických církvích a starokatolické církvi je farář většinou farností volen, v katolické církvi jej jmenuje biskup. V evangelických církvích je farář ordinovaným teologem, v katolické, anglikánské a pravoslavné církvi musí být farář kněz"
+        }
+  ]
+}

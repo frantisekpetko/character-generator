@@ -1,0 +1,13 @@
+{
+	"sector": "dům bezpečnosti obyvatelstva",
+	"profession": [
+				{
+					"name": "hasič",
+					"description": "Státem placený zaměstnanec. V jeho prací je nejen hasit požáry, ale také pomoc při různých katastrofách"
+				},
+				{
+					"name": "hasič dobrovolný",
+					"description": "K zakládání sborů dobrovolných hasičů vedly velmi časté požáry, které se velice rychle šířily, protože převážná většina domů mělo stále ještě hořlavou krytinu (šindele a došky).\\nJako nejstarší jednotka v Jihlavském okrese a jako jedna z prvních na Moravě vůbec vznikl již v roce 1874 Sbor dobrovolných hasičů v Brtnici. V témže roce obecní výbor schválil „Hasičský pořádek“ a byla na náměstí postavena hasičská zbrojnice. "
+				}
+			]
+}

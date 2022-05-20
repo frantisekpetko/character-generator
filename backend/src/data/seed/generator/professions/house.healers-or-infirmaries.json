@@ -1,0 +1,33 @@
+{
+  "sector": "dům léčitelů nebo lazaret",
+  "profession": [
+        {
+          "name": "bába kořenářka",
+          "description": "Prodávala koření a různé byliny, léčitelka"
+        },
+        {
+          "name": "bába pupkořezná",
+          "description": "Zkušenejší porodní bába, asistovala s lékařem"
+        },
+        {
+          "name": "bába špitální",
+          "description": "Uklízečka nebo pomocnice v lazaretu/špítálu"
+        },
+        {
+          "name": "bába andělíčkářka",
+          "description": ""
+        },
+        {
+          "name": "bába andělíčkářka",
+          "description": "Prováděla potraty. Většinou vysloužilá porodní bába nebo kořenářka"
+        },
+        {
+          "name": "cirolog, chirolog",
+          "description": "Bradýř specializovaný na chirurgické úkony jako bylo pouštění žilou, přikládání pijavic či obvazování ran. Často také léčil kožní a pohlavní nemoci."
+        },
+        {
+          "name": "fysik, lékař",
+          "description": "Léčil bez univerzitních zkoušek, jen měl ukončené studium "
+        }
+  ]
+}

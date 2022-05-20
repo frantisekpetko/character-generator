@@ -1,0 +1,21 @@
+{
+  "sector": "dům výroby čerstvých a trvanlivých potravin",
+  "profession": [
+        {
+          "name": "caletník",
+          "description": "Specialista pekař vyrábějící sladké pečivo mimo perník"
+        },
+        {
+          "name": "cukrář, konfektář",
+          "description": "Specializovaný řemeslník, který pekl a jinak vyráběl cikrlátka, cukroví, zejména konfety (bonbony) a tatrmánky z cukru a přísad"
+        },
+        {
+          "name": "drobník, dršťkař",
+          "description": "Řezník specialista na zvířecí droby"
+        },
+        {
+          "name": "huntéř, huntíř",
+          "description": "Přespolní nebo podomní řezník. Název od káry (huntu) na níž vozíval zboží"
+        }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "sector": "dům domovního zboží",
+  "profession": [
+        {
+          "name": "hadrář, hadrník",
+          "description": "Podomní obchodník zkupující po domech hadry a opětovně je prodával na další zpracování"
+        },
+        {
+          "name": "hárkař",
+          "description": "Tito podomní obchodníci se živili zejména prodejem papíru, který nosili na zvláštních nosítkách ve tvaru dnešních krosen. Právě těm se říkalo hárky, které s plným nákladem vážily kolem 40 kg. Prodávali papír kancelářský, dopisní, obálky, pohlednice, sešity – také tužky a pera. Hlavní prodej nastal před začátkem školního roku – živnost se však činila po celý rok"
+        }
+  ]
+}

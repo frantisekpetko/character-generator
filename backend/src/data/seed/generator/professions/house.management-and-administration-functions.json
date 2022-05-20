@@ -1,0 +1,21 @@
+{
+  "sector": "dům řídících a správcovských funkcích",
+  "profession": [
+        {
+          "name": "cechmistr",
+          "description": "Mistr feudální organizace řemeslníků."
+        },
+        {
+          "name": "hospodář, hospodářka",
+          "description": "Na venkově řídil činnost selské čeledi. Nemusel být ale majitelem usedlosti, mohl být v nájmu"
+        },
+        {
+          "name": "hospodář herberku",
+          "description": "Hospodář tovaryšský – hospodář tovaryšské hospody"
+        },
+        {
+          "name": "hospodář pojezdný",
+          "description": "Panský úředník. Hospodářský pojezdný – měl na starosti polní hospodářství. Objížděl pole a louky a dbal, aby byly správně a včas vykonány polní práce. Konal objížďky jednotlivých dvorů a byli mu podřízeni šafáři a šafářky. V Brtnici od poloviny 17. století"
+        }
+  ]
+}

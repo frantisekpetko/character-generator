@@ -1,0 +1,69 @@
+{
+  "sector": "dům výroby sortimentu a menšího zboží, nástrojů",
+  "profession": [
+        {
+          "name": "bičař, bičištník",
+          "description": "Řemeslník specializující se na výrobu bičů a bičišťat"
+        },
+        {
+          "name": "bubňák",
+          "description": "Výrobce hudebních bubnů ze dřeva a kůže"
+        },
+        {
+          "name": "citárník, loutník, loutnař",
+          "description": "Výrobce hudebních nástrojů"
+        },
+        {
+          "name": "čbánař, čbánkař, džbánkař, džbánečník",
+          "description": "Specializovaný hrnčíř, který se specializoval zejména na výrobu různých druhů džbánků a džbánů"
+        },
+        {
+          "name": "češíř, číšíř",
+          "description": "Soustružník specializovaný na výrobu dřevěných číší"
+        },
+        {
+          "name": "destilátor",
+          "description": "Palič vína nebo palič piva. Z těchto nápojů destiloval alkoholické nápoje"
+        },
+        {
+          "name": "dřevorytec",
+          "description": "Specialista řezbář dřeva zabývající se pouze výrobou dřevorytů, zprvu plochých nástěnných obrazů, později předloh pro tisk."
+        },
+        {
+          "name": "emailér",
+          "description": "Zdobil pomocí slonoviny (barvené kysličníky kovů) předměty z kovů, zlata a z hlíny. Zdobil je emailem"
+        },
+        {
+          "name": "fajansér",
+          "description": "Specialista hrnčíř zhotovující (nebo jen dokončující) keramické výrobky z jemné plavené hlíny, vypalované v peci a opatřované neprůhlednou ciničitou polevou vhodnou pro malířskou úpravu"
+        },
+        {
+          "name": "fochér, ohánečník",
+          "description": "Řemeslník, který z ptačích per vyráběl vějíře sloužící původně k odhánění much. Až později jako módní doplněk. Výrobce „kohoutů“ na ometání prachu"
+        },
+        {
+          "name": "habán",
+          "description": "Příslušník anababtiské sekty (novokřtěnec) zabývající se výrobou keramiky (habánská keramika)" 
+        },
+        {
+          "name": "houžvař",
+          "description": "Výrobce houžví ze dřeva"
+        },
+        {
+          "name": "hřebelečník",
+          "description": "Řemeslník vyrábějící hřebeny k hřebelcování koní"
+        },
+        {
+          "name": "hřebenář",
+          "description": "Řemeslník vyrábějící hřebeny z rohů, ze slonové kosti a vzácných dřev"
+        },
+        {
+          "name": "huslař",
+          "description": "Výrobce dřevěných nástrojů" 
+        },
+        {
+          "name": "ínkoustář",
+          "description": "Výrobce inkoustu"
+        }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "sector": "dům staveb a údržby",
+  "profession": [
+        {
+          "name": "pokrývač",
+          "description": ""
+        },
+        {
+          "name": "kolník, beraník, nádeník",
+          "description": "Nádeník specializovaný na zatloukání kůlů do říčního dna"
+        },
+        {
+          "name": "cestář",
+          "description": "Opravoval cesty a silnice. Většinou roztloukal kamení a díry vysypával směsí kamení a jílu rozmíchaném ve vodě"
+        },
+        {
+          "name": "cihlář",
+          "description": "Řemeslník vyrábějící cihly z hlíny a příměsí – kotovice – sušené na slunci, nebo později pálené v cihelně"
+        },
+
+        {
+          "name": "cihlář krycí",
+          "description": "Specialista cihlář – vyrábějící střešní krytinu – tašky a příslušenství - zejména mnohdy velmi zdobené zakončení střešních hřebenů"
+        },
+        {
+          "name": "dlaždič",
+          "description": "Řemeslník zabývající se dlážděním cest a kladením podlahových dlaždic"
+        },
+        {
+          "name": "dlažič",
+          "description": "Specialista dlaždič zabývající se jen kladením podlahových dlaždic"
+        },
+        {
+          "name": "doškař",
+          "description": "Řemeslník který pokrýval střechu slaměnou doškovou krytinou"
+        },
+        {
+          "name": "dychér",
+          "description": "K zedniké profesi patřili i např. dynchéři, kteří dynchovali - obmršťovali zeď maltou. Nejstarší stavby, zejména chudinské, nebo stavby chlívků a kůlen byly ze splétaného proutí na dřevěné konstrukci a odychtované maltou"
+        },
+        {
+          "name": "dychnéř, hliňák",
+          "description": "Specializovaný zedník který lepil zdivo z nepálených cihel, ale i z kamene jen na hlínu.  Hlinomazi, lepáci, hlínou lepili zděné ohrady, zídky nebo chlévy a vymazovali jizby. Z připravené hlíny obmazával stěny hlínou, kterou uměl vyhladit a často i nabílit.Je dlužno se zmínit, že v Brtnici působila řada stavebních řemeslníků, kteří se podíleli na stavbách v rodné obci, či okolí."
+        },
+        {
+          "name": "geometr",
+          "description": "Zeměměřič"
+        },
+        {
+          "name": "lokátor",
+          "description": "Byla osoba, která ve středověku prováděla lokaci, jistá obdoba moderního developera. Majitel půdy ho tedy pověřil založením vsi či města. Povinností lokátora bylo najít lidi ochotné se v novém sídlišti usadit, zastupovat je a zorganizovat veškerou činnost související bezprostředně se vznikem osady (vyklučení lesa, přesun osadníků, vyměření polností, případně parcel a ulic atd.)."
+        },
+        {
+          "name": "hlinomaz",
+          "description": "Z připravené hlíny obmazával stěny hlínou, kterou uměl vyhladit a často i nabílit."
+        }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "sector": "dům pochybných povolání",
+  "profession": [
+        {
+          "name": "bohyně, bosorka",
+          "description": "Žena zabývající se čarováním a zaříkáváním"
+        },
+        {
+          "name": "hadač",
+          "description": "Využívá lidské hlouposti, lehkověnosti a pověr a hádal pomocí různých předmětů budoucnost"
+        },
+        {
+          "name": "hvězdář",
+          "description": "V podstatě Astrolog"
+        },
+        {
+          "name": "chodák",
+          "description": "Tulák, žebrák"
+        }
+  ]
+}

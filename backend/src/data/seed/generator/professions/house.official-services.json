@@ -1,0 +1,25 @@
+{
+  "sector": "dům úředních služeb",
+  "profession": [
+        {
+          "name": "bubeník",
+          "description": "Vše, co dnes zastává obecní rozhlas, zajišťoval od nejstarších dob bubnováním obecní sluh"
+        },
+        {
+          "name": "důchodní",
+          "description": "Vrchností pověřený úředník který se stará o výběr důchodů (daní)."
+        },
+        {
+          "name": "executor",
+          "description": "Úředník provádějící zabavení majetku ve prospěch dlužníka"
+        },
+        {
+          "name": "hejtman",
+          "description": "Vyšší úředník panství jmenovaný majitelem panství.\\nV Brtnici byla tato funkce ustanovena v polovině 17. století."
+        },
+        {
+          "name": "hejtman vrchní",
+          "description": "Nejvyšší úředník panství – vrchní hejtman (v době kdy existoval regent, jen hejtman) – byl prostředníkem mezi panstvím a hrabětem, kterého informoval o stavu hospodářství a jiných úředních záležitostech politického a bezpečnostního rázu. Hrabě naopak posílal jeho prostřednictvím svá nařízení, pokyny apod. Na panství byl představený všem úředníkům. Měl odpovědnost za celé hospodářství a „každého tého týdne, nebo chce-l ve dvou nedělích jednou dvory, rybníky, mlýny, ovčírny a jiné hospodářství sjezditi měl, též rolím orným dohlížel“. V tomto ohledu mu přímo podléhali purkrabí, obroční, lesní pojezdný, sládek a porybný. Hejtman také musel schvalovat všechny účetní položky.\\nV Brtnici byla tato funkce ustanovena v polovině 17. století. "
+        }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "sector": "dům specialistů práce se dřevem",
+  "profession": [
+        {
+          "name": "bečvář",
+          "description": "Vyráběli dřevěné nádoby mimo dřevěných sudů, používali dubové dřevo"
+        },
+        {
+          "name": "bednář",
+          "description": "Podle účelu použití se zpracovávalo dřevo dubové (na vodu, kvas, víno, chlebové těsto), modřínové (mimo vodu také na močůvkové lejty) a smrkové (necky na praní a vaničky na koupání, škopky pro napájení dobytka) "
+        },
+        {
+          "name": "boudkař",
+          "description": "Vyráběl předměty z kostí, také Tesař specialista na stavbu kotců, kolen a krámků"
+        },
+        {
+          "name": "brdář, neckář",
+          "description": "Výrobce dřevěných nádob sbíjením latí a prken. Někdy i brdař dlabáním z celých kmenů. Specialista na necky a vaničky"
+        },
+        {
+          "name": "búdkař",
+          "description": "Specialista tesař na stavbu krámů, kotců a bud, budek a holubníků"
+        },
+        {
+          "name": "Drvoštěp",
+          "description": "Námezdní pracovník který štípal dříví na topení. Na vysočině, kde se rozprostíraly od pradávna hluboké lesy, byla obživou obyvatel práce v lese. Lesy káceli nejen drvoštěpové, ale v zimním období se touto činností zabývalo i mnoho sedláků. Dřevo se používalo jednak na topení, jednak k dalšímu zpracování."
+        },
+        {
+          "name": "Dýmkař",
+          "description": "Na brtnicku tato činnost nebyla nikterak rozšířená, spíše byla okrajovou a doplňkovou ke špičkařům. I když brtnické dýmky dosáhly v širokém okolí značné obliby. Dobrou reklamu jim dělali zvěroklestiči či nunváři nebo miškáři, kteří se po brtnické pouti \"rozlézali\" po okolí \"jako mravenci\". K jejich tradiční výstroji patřila nezbytná krátká, ale \"sporá\" fajfčička. K výrobě se používalo dnes již nedostatkové jalovcové dřevo."
+        }
+      ]
+}

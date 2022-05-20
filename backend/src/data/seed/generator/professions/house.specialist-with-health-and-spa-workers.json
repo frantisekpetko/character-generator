@@ -1,0 +1,21 @@
+{
+  "sector": "dům služeb zdraví a lázně",
+  "profession": [
+        {
+          "name": "bandknecht",
+          "description": "Lázeňský pomocník"
+        },
+        {
+          "name": "barbíř",
+          "description": "Lazebník"
+        },
+        {
+          "name": "bradýř",
+          "description": "Lazebník specialista na holení a hojení řezných ran"
+        },
+        {
+          "name": "felčar",
+          "description": "Předchůdce dnešního lékaře. Původně polní lazebník a ranhojič či obyčejný holič občanský. Lékař v dobách kdy nebyla jako nyní vyvinuta lidskost a péče pro raněné a nemocné, jediný zdravotnický pomocník těchto ubožáků. Stojí na stupni významu ve své době zcela nízkém. Teprve na rozhraní 18. a 19. století začínají se felčary ustanovovat graduovaní lékaři, doktoři a zanikl potom i titul felčar"
+        }
+  ]
+}

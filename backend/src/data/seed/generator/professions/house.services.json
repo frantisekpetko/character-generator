@@ -1,0 +1,49 @@
+{
+  "sector": "dům služeb",
+  "profession": [
+        {
+          "name": "dohazovač",
+          "description": "Zprostředkovatel sňatků, ale i námezdních pracovníků a nemovitostí. Byla to další typická figurka chodící nejen po venkově i po městečkách. Měl v hlavě jejich celý seznam ženichů a nevěst, znal jejich majetkové poměry a zprostředkovával sňatky sobě rovných partnerů."
+        },
+        {
+          "name": "domovník",
+          "description": "Správce domu. Za byt se stará o chod a opravy v nájemním domě či sídle domácího"
+        },
+        {
+          "name": "fiakrist",
+          "description": "Majitel kočáru – fiakru – sloužícího pro přepravu osob "
+        },
+        {
+          "name": "forman",
+          "description": "Města i vesnice byly v našich zemích odedávna v čilém obchodním styku. Zboží vozili obchodníkům ve vozech, tažených koňmi, formani. Toto řemeslo se rozvíjelo zejména ve 14. století, kdy u nás vznikla síť zemských stezek, později zemských silnic. Od 16. století se tato síť začala rozrůstat a zkvalitňovat, technický pokrok též zaznamenaly formanské vozy "
+        },
+        {
+          "name": "forman nájemní",
+          "description": "Formani nájemní měli oprávněnými jezdit jen v určitých lokalitách a to vždy tam, kam měly dohodnutou trasu od které se nesměly odchýlit"
+        },
+        {
+          "name": "forman venkovský",
+          "description": "Formani nájemní měli oprávněnými jezdit jen v určitých lokalitách a to vždy tam, kam měly dohodnutou trasu od které se nesměly odchýlit"
+        },
+        {
+          "name": "forman zemský",
+          "description": "V 18. století se setkáváme už s formany zemskými, kteří mohli jezdit neomezeně"
+        },
+        {
+          "name": "holič",
+          "description": "Specialista na stříhání vousů a úpravy vlasů a vousů pánů"
+        },
+        {
+          "name": "hospodář domovní",
+          "description": "Domovník v domě kupce nebo nájemce"
+        },
+        {
+          "name": "hostinský",
+          "description": "Brtnice v roce 1882 již zaměstnávala jakožto zaměstnance obce jednoho svého hostinského v obecní hospodě spravované obcí. Hospoda zvaná Radniční Nálevna byla v prostorách radnice "
+        },
+        {
+          "name": "hrobník",
+          "description": "Obchodník prodávající sypké zboží ne na váhu ale hrstě – sůl, semena, obilí, kroupy, hrách a pod"
+        }
+  ]
+}

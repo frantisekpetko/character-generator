@@ -1,0 +1,18 @@
+
+{
+     "sector": "dům alchymistů",
+     "profession": [
+           {
+             "name": "alchymista",
+             "description": ""
+           },
+           {
+             "name": "apatykář",
+             "description": "Prodával a vyráběl léky"
+           },
+           {
+             "name": "bába utrejchová",
+             "description": "Prodávala lektvary, jedy"
+           }
+      ]
+}

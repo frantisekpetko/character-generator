@@ -1,0 +1,17 @@
+{
+  "sector": "dům výroby vybavení pro domácnost",
+  "profession": [
+        {
+          "name": "čalounář, kobercář",
+          "description": "Kadlec specialista na koberce k ozbobě nábytku, stěn a prostíraní na podlahy. Později toto řemeslo bylo vytlačeno výrobou gobelínů"
+        },
+        {
+          "name": "čalouník",
+          "description": "Specialista na potahování nábytku a kočárů látkou – čalouněním"
+        },
+        {
+          "name": "hrnčíř",
+          "description": "Řemeslník vyrábějící z hlíny nádobí na kruhu a vypalované v peci. K vybavení domácností našich předků patřily bezesporu keramické nádoby, jejichž výroba byla od pradávna velmi rozšířena. Tuto keramiku vyráběli hrnčíři na hrnčířských kruzích a vypalovali v hrnčířských pecích. Původní polní hrnčířské pece byly ve středověku vystřídány milířovitými pecemi stabilními i příležitostnými. Ještě v 19. století bylo toto řemeslo dosti rozšířené, ale postupem času byla keramika nahrazována jinými materiály"
+        }
+  ]
+}

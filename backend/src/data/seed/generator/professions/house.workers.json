@@ -1,0 +1,41 @@
+{
+  "sector": "dům pracovníků",
+  "profession": [
+        {
+          "name": "austrakář, nosič ",
+          "description": "Námezdný pracovník k nošení břemen"
+        },
+        {
+          "name": "čeledín",
+          "description": "Námezdní pracovník v různých oborech, obvykle při venkovské činnosti, příslušník čeledi selské"
+        },
+        {
+          "name": "čeleď mlýnská",
+          "description": "Námezdní pracovník ve mlýně, tvořili ji stárci, mládci, prášci a smetipraši. Někdy byli mezi ně i zařazováni šejdíř  a pilař"
+        },
+        {
+          "name": "čeleď panská",
+          "description": "Námezdní pracovníci na panském dvoře. Tvořili ji příslušníci selské čeledi, poklasní a šafář (řídil práce panské čeledi)"
+        },
+        {
+          "name": "čeleď selská",
+          "description": "Námezdní pracovníci na selském dvoře. Čeleď tvořily husopasky, pasáci, mladší čeledíny a děvečky a starší čeledíni a děvečky"
+        },
+        {
+          "name": "dívka",
+          "description": "Námezdní pracovnice na selském dvoře, příslušnice ženské čeledi"
+        },
+        {
+          "name": "dolák",
+          "description": "Jakýkoliv pracovník pocházející z nížin, údolí nebo níže položeného místa"
+        },
+        {
+          "name": "famulus",
+          "description": "Pomocník či sluha"
+        },
+        {
+          "name": "husopas",
+          "description": "Pásl husy, příslušník selské čeledi"
+        }
+  ]
+}
